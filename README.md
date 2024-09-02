@@ -1,2 +1,2 @@
 # AgapayAlert
-Capstone System
+Frontend
