@@ -10,7 +10,7 @@ export default function FeatureSection() {
   return (
     <>
       {/* Icon Blocks */}
-      <div className="container py-24 lg:py-32 lg:px-10">
+      <div className="flex justify-center py-24 lg:py-32 lg:px-10">
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 items-center gap-6 md:gap-10 p-3">
           {/* Card */}
           <Card>
