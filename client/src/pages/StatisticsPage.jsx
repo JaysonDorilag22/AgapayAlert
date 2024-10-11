@@ -33,7 +33,7 @@ const COLORS = ['#0088FE', '#00C49F', '#FFBB28', '#FF8042']
 export default function StatisticsPage() {
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-3xl font-bold mb-2">AgapayAlert Statistics</h1>
+      <h1 className="text-4xl font-extrabold mb-2">AgapayAlert Statistics</h1>
       <p className="text-muted-foreground mb-8">Transparency in our mission to find missing persons and engage the community</p>
 
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4 mb-8">

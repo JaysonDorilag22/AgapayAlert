@@ -8,7 +8,8 @@ import StatisticsPage from "./pages/StatisticsPage";
 import HowItWorksSection from "./components/HowItWorksSection";
 import FooterSection from "./components/FooterSection";
 import SignUp from "./pages/auth/SignUp";
-
+import AboutPage from "./pages/AboutPage";
+import ReportForm from "./pages/user/ReportForm";
 function App() {
   return (
     <ThemeProvider defaultTheme="dark" storageKey="vite-ui-theme">
@@ -20,9 +21,13 @@ function App() {
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<SignUp />} />
 
-          <Route path="/admin-dashboard" element={<AdminDashboard/>} />
           <Route path="/statistics" element={<StatisticsPage/>} />
           <Route path="/howitworks" element={<HowItWorksSection/>} />
+          <Route path="/about" element={<AboutPage/>} />
+          <Route path="/report" element={<ReportForm/>} />
+
+          <Route path="/admin-dashboard" element={<AdminDashboard/>} />
+
           {/* Add more routes as needed */}
         </Routes>
         <FooterSection/>
