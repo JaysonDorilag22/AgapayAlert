@@ -4,7 +4,7 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { PaletteIcon, PresentationIcon, StoreIcon } from "lucide-react";
+import { AlertTriangle, Users, Shield, Bell, Search } from "lucide-react";
 
 export default function FeatureSection() {
   return (
@@ -16,12 +16,12 @@ export default function FeatureSection() {
           <Card>
             <CardHeader className="pb-4 flex-row items-center gap-4">
               <div className="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-2 bg-primary">
-                <PaletteIcon className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
+                <AlertTriangle className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
               </div>
-              <CardTitle>Build your portfolio</CardTitle>
+              <CardTitle>Alert Initiation</CardTitle>
             </CardHeader>
             <CardContent>
-              The simplest way to keep your portfolio always up-to-date.
+              Authorities issue an AgapayAlert when a person is reported missing in your City and surrounding areas.
             </CardContent>
           </Card>
           {/* End Card */}
@@ -29,12 +29,12 @@ export default function FeatureSection() {
           <Card>
             <CardHeader className="pb-4 flex-row items-center gap-4">
               <div className="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-2 bg-primary">
-                <PresentationIcon className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
+                <Users className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
               </div>
-              <CardTitle>Get freelance work</CardTitle>
+              <CardTitle>Information Gathering</CardTitle>
             </CardHeader>
             <CardContent>
-              New design projects delivered to your inbox each morning.
+              Important details about the missing person are collected and verified by authorities.
             </CardContent>
           </Card>
           {/* End Card */}
@@ -42,13 +42,12 @@ export default function FeatureSection() {
           <Card>
             <CardHeader className="pb-4 flex-row items-center gap-4">
               <div className="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-2 bg-primary">
-                <StoreIcon className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
+                <Bell className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
               </div>
-              <CardTitle>Sell your goods</CardTitle>
+              <CardTitle>Alert Distribution</CardTitle>
             </CardHeader>
             <CardContent>
-              Get your goods in front of millions of potential customers with
-              ease.
+              Alerts are rapidly distributed to the public through SMS, social media, and other platforms.
             </CardContent>
           </Card>
           {/* End Card */}
@@ -56,12 +55,12 @@ export default function FeatureSection() {
           <Card>
             <CardHeader className="pb-4 flex-row items-center gap-4">
               <div className="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-2 bg-primary">
-                <StoreIcon className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
+                <Search className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
               </div>
-              <CardTitle>Get freelance work</CardTitle>
+              <CardTitle>Public Engagement</CardTitle>
             </CardHeader>
             <CardContent>
-              New design projects delivered to your inbox each morning.
+              Citizens are encouraged to report sightings or any helpful information about the missing person.
             </CardContent>
           </Card>
           {/* End Card */}
@@ -69,13 +68,12 @@ export default function FeatureSection() {
           <Card>
             <CardHeader className="pb-4 flex-row items-center gap-4">
               <div className="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-2 bg-primary">
-                <StoreIcon className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
+                <Shield className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
               </div>
-              <CardTitle>Sell your goods</CardTitle>
+              <CardTitle>Coordinated Response</CardTitle>
             </CardHeader>
             <CardContent>
-              Get your goods in front of millions of potential customers with
-              ease.
+              Law enforcement and community partners work together to search for and rescue the missing person.
             </CardContent>
           </Card>
           {/* End Card */}
@@ -83,12 +81,12 @@ export default function FeatureSection() {
           <Card>
             <CardHeader className="pb-4 flex-row items-center gap-4">
               <div className="inline-flex justify-center items-center w-[62px] h-[62px] rounded-full border-2 bg-primary">
-                <PaletteIcon className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
+                <AlertTriangle className="flex-shrink-0 w-6 h-6 text-primary-foreground" />
               </div>
-              <CardTitle>Build your portfolio</CardTitle>
+              <CardTitle>Alert Resolution</CardTitle>
             </CardHeader>
             <CardContent>
-              The simplest way to keep your portfolio always up-to-date.
+              The alert is canceled when the missing person is found or when the search is deemed no longer effective.
             </CardContent>
           </Card>
           {/* End Card */}

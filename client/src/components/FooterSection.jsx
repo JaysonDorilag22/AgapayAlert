@@ -1,22 +1,42 @@
+import { Facebook, Twitter, Instagram } from "lucide-react" 
 
-import { Separator } from "@/components/ui/separator"
+import { Link } from "react-router-dom"
 export default function FooterSection() {
   return (
-    <footer className="py-10 px-10">
-      <div>
-      <div className="space-y-1">
-        <h4 className="text-sm font-medium leading-none">Radix Primitives</h4>
-        <p className="text-sm text-muted-foreground">
-          An open-source UI component library.
-        </p>
-      </div>
-      <Separator className="my-4" />
-      <div className="flex h-5 items-center space-x-4 text-sm">
-        <div>Blog</div>
-        <Separator orientation="vertical" />
-        <div>Docs</div>
-        <Separator orientation="vertical" />
-        <div>Source</div>
+    <footer className="border-t">
+    <div className="container px-4 py-8 mx-auto">
+      <div className="grid grid-cols-1 gap-8 md:grid-cols-3">
+        <div className="space-y-4">
+          <h3 className="text-lg font-semibold">agapayAlert</h3>
+          <p className="text-sm text-muted-foreground">
+            Empowering communities with rapid emergency alerts and response coordination.
+          </p>
+        </div>
+        <nav className="space-y-4">
+          <h4 className="text-sm font-semibold">Quick Links</h4>
+          <ul className="space-y-2 text-sm">
+            <li>
+              <Link href="/about" className="hover:underline">About Us</Link>
+            </li>
+            <li>
+              <Link href="/how-it-works" className="hover:underline">How It Works</Link>
+            </li>
+            <li>
+              <Link href="/resources" className="hover:underline">Resources</Link>
+            </li>
+            <li>
+              <Link href="/contact" className="hover:underline">Contact</Link>
+            </li>
+          </ul>
+        </nav>
+        <div className="space-y-4">
+          <h4 className="text-sm font-semibold">Follow Us</h4>
+          <div className="flex space-x-4">
+            <Facebook className="w-6 h-6" /> 
+            <Twitter className="w-6 h-6" />
+            <Instagram className="w-6 h-6" />
+          </div>
+        </div>
       </div>
     </div>
     </footer>
