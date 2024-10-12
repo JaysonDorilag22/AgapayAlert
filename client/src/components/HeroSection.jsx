@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
-import { MAP_TILE_URL, MAP_ATTRIBUTION } from "@/lib/maps";
+import { MAP_TILE_URL, MAP_ATTRIBUTION, DARK_MAP_TILE_URL } from "@/lib/maps";
 import geojsonData from "@/lib/export";
 import { useState, useEffect } from "react";
 
@@ -14,24 +14,22 @@ import { useState, useEffect } from "react";
 const policeStations = geojsonData.features
   .filter(feature => feature.properties.amenity === "police")
   .map(feature => ({
-    position: feature.geometry.coordinates.reverse(), // Reverse to [lat, lng]
+    position: feature.geometry.coordinates.reverse(), 
     name: feature.properties.name,
   }));
 
-// Create a custom icon using logo3
 const customIcon = new L.Icon({
   iconUrl: logo3,
-  iconSize: [24, 24], // Adjust the size as needed
-  iconAnchor: [12, 24], // Adjust the anchor as needed
-  popupAnchor: [0, -24], // Adjust the popup anchor as needed
+  iconSize: [24, 24], 
+  iconAnchor: [12, 24], 
+  popupAnchor: [0, -24], 
 });
 
-// Create a custom icon for the user's location
 const userLocationIcon = new L.Icon({
-  iconUrl: "https://w7.pngwing.com/pngs/158/65/png-transparent-location-application-icon-computer-software-business-information-organization-location-logo-miscellaneous-blue-company.png", // Replace with the URL of your location icon
-  iconSize: [24, 24], // Adjust the size as needed
-  iconAnchor: [12, 24], // Adjust the anchor as needed
-  popupAnchor: [0, -24], // Adjust the popup anchor as needed
+ iconUrl: "https://cdn-icons-png.flaticon.com/512/684/684908.png",
+  iconSize: [24, 24], 
+  iconAnchor: [12, 24], 
+  popupAnchor: [0, -24], 
 });
 
 export default function HeroSection() {
@@ -50,13 +48,12 @@ export default function HeroSection() {
           console.error("Error getting user location:", error);
         },
         {
-          enableHighAccuracy: true, // Use high accuracy mode if available
-          timeout: 5000, // Timeout after 5 seconds
-          maximumAge: 0 // Do not use a cached position
+          enableHighAccuracy: true, 
+          timeout: 5000,
+          maximumAge: 0 
         }
       );
 
-      // Cleanup function to clear the watch when the component unmounts
       return () => {
         navigator.geolocation.clearWatch(watchId);
       };
@@ -125,7 +122,7 @@ export default function HeroSection() {
               className="h-96 rounded-xl"
             >
               <TileLayer
-                url={MAP_TILE_URL}
+                url={theme === "dark" ? DARK_MAP_TILE_URL : MAP_TILE_URL}
                 attribution={MAP_ATTRIBUTION}
               />
               {userLocation && (
