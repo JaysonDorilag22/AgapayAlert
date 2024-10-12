@@ -28,7 +28,7 @@ const customIcon = new L.Icon({
 
 // Create a custom icon for the user's location
 const userLocationIcon = new L.Icon({
-  iconUrl: "https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=256", // Replace with the URL of your location icon
+  iconUrl: "https://w7.pngwing.com/pngs/158/65/png-transparent-location-application-icon-computer-software-business-information-organization-location-logo-miscellaneous-blue-company.png", // Replace with the URL of your location icon
   iconSize: [24, 24], // Adjust the size as needed
   iconAnchor: [12, 24], // Adjust the anchor as needed
   popupAnchor: [0, -24], // Adjust the popup anchor as needed
@@ -40,7 +40,7 @@ export default function HeroSection() {
 
   useEffect(() => {
     if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(
+      const watchId = navigator.geolocation.watchPosition(
         position => {
           const { latitude, longitude } = position.coords;
           console.log("User's coordinates:", { latitude, longitude });
@@ -48,8 +48,18 @@ export default function HeroSection() {
         },
         error => {
           console.error("Error getting user location:", error);
+        },
+        {
+          enableHighAccuracy: true, // Use high accuracy mode if available
+          timeout: 5000, // Timeout after 5 seconds
+          maximumAge: 0 // Do not use a cached position
         }
       );
+
+      // Cleanup function to clear the watch when the component unmounts
+      return () => {
+        navigator.geolocation.clearWatch(watchId);
+      };
     }
   }, []);
 
