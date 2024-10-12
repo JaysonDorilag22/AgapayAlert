@@ -1,0 +1,6623 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2024-10-12T05:10:43Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255049917",
+        "addr:city": "Taguig",
+        "addr:postcode": "1641",
+        "addr:street": "Anahaw",
+        "amenity": "police",
+        "name": "Makati Police Precint 8",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0652569,
+          14.5490107
+        ]
+      },
+      "id": "node/255049917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255049933",
+        "addr:city": "Las Piñas",
+        "addr:postcode": "1740",
+        "addr:street": "Alabang-Zapote Road",
+        "amenity": "police",
+        "name": "Police Community Precinct № 2",
+        "short_name": "PCP-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9701761,
+          14.4585299
+        ]
+      },
+      "id": "node/255049933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255049936",
+        "addr:city": "Malabon",
+        "addr:postcode": "1470",
+        "addr:street": "MacArthur Highway",
+        "amenity": "police",
+        "name": "Police Community Precinc № 2",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9840103,
+          14.6634751
+        ]
+      },
+      "id": "node/255049936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255050240",
+        "addr:city": "Mandaluyong",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "branch": "Mandaluyong City Police Office",
+        "name": "Police Community Precinct 2",
+        "osm_id": "255050240",
+        "timestamp": "2013-10-14T04:09:28Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.02983,
+          14.581231
+        ]
+      },
+      "id": "node/255050240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255051494",
+        "addr:city": "Las Piñas",
+        "amenity": "police",
+        "name": "CAA Police Community Precinct 4",
+        "osm_id": "255051494",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2011-06-25T04:53:57Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.994751,
+          14.457091
+        ]
+      },
+      "id": "node/255051494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255052977",
+        "addr:city": "Parañaque",
+        "amenity": "police",
+        "name": "Community Precinct № 2",
+        "operator": "Philippine National Police",
+        "operator:short": "PNP",
+        "operator:wikidata": "Q963772",
+        "osm_id": "255052977",
+        "short_name": "PCP-2",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2011-06-25T04:41:03Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9897,
+          14.50036
+        ]
+      },
+      "id": "node/255052977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255053941",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "alt_name": "Manila Police Station № 10",
+        "amenity": "police",
+        "name": "Pandacan Police Station",
+        "osm_id": "255053941",
+        "timestamp": "2013-10-14T04:53:13Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0035632,
+          14.5931654
+        ]
+      },
+      "id": "node/255053941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255054475",
+        "addr:city": "Taguig",
+        "addr:postcode": "1644",
+        "amenity": "police",
+        "name": "Makati Police Precinct № 7",
+        "short_name": "Makati PCP № 7",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0603958,
+          14.5628034
+        ]
+      },
+      "id": "node/255054475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255054486",
+        "amenity": "police",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1440",
+        "name": "Caloocan City Police Community Precint 7",
+        "operator": "Caloocan City",
+        "osm_id": "255054486",
+        "timestamp": "2014-07-30T02:16:31Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0089111,
+          14.6815301
+        ]
+      },
+      "id": "node/255054486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255055167",
+        "amenity": "police",
+        "is_in:city": "Pasay",
+        "is_in:zip": "1300",
+        "name": "Pcp- 5",
+        "osm_id": "255055167",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2010-09-26T10:51:20Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0084187,
+          14.5474907
+        ]
+      },
+      "id": "node/255055167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058373",
+        "amenity": "police",
+        "garmin:description": "police station",
+        "is_in:city": "Malabon",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1470",
+        "name": "Pcp-3",
+        "osm_id": "255058373",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2010-01-08T18:24:06Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.960632,
+          14.65179
+        ]
+      },
+      "id": "node/255058373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058436",
+        "addr:city": "Las Piñas",
+        "amenity": "police",
+        "name": "Pcp-3",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.967851,
+          14.4661887
+        ]
+      },
+      "id": "node/255058436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058503",
+        "amenity": "police",
+        "garmin:description": "police station",
+        "is_in:city": "Kalookan",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1400",
+        "name": "Caloocan City PCP 4",
+        "osm_id": "255058503",
+        "source": "Benta Serbisyo",
+        "source:url": "http://www.bentaserbisyo.com/",
+        "timestamp": "2011-02-14T19:11:14Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.990028,
+          14.6443711
+        ]
+      },
+      "id": "node/255058503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058703",
+        "addr:city": "Marikina",
+        "addr:postcode": "1801",
+        "amenity": "police",
+        "name": "Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0983621,
+          14.6291528
+        ]
+      },
+      "id": "node/255058703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255058912",
+        "amenity": "police",
+        "garmin:description": "police station",
+        "is_in:city": "Navotas",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1485",
+        "name": "Pcp-4",
+        "osm_id": "255058912",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2012-04-15T08:08:05Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9548519,
+          14.6467701
+        ]
+      },
+      "id": "node/255058912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255060037",
+        "amenity": "police",
+        "garmin:description": "police station",
+        "is_in:city": "Taguig",
+        "is_in:zip": "1630",
+        "name": "Taguig Central Police Station",
+        "osm_id": "255060037",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2009-11-21T16:09:58Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.070686,
+          14.52864
+        ]
+      },
+      "id": "node/255060037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255060171",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Pasay City Police Station 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9849132,
+          14.5579626
+        ]
+      },
+      "id": "node/255060171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255061715",
+        "addr:city": "Las Piñas",
+        "addr:postcode": "1740",
+        "addr:street": "P. Diego Cera Avenue",
+        "amenity": "police",
+        "name": "PCP-1",
+        "osm_id": "255061715",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2013-10-01T09:29:06Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9815772,
+          14.4807742
+        ]
+      },
+      "id": "node/255061715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255062399",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Pcp-3",
+        "osm_id": "255062399",
+        "timestamp": "2013-10-12T14:45:04Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0987299,
+          14.603378
+        ]
+      },
+      "id": "node/255062399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255063240",
+        "amenity": "police",
+        "is_in:city": "Pasay",
+        "is_in:zip": "1300",
+        "name": "Pasay City Traffic Headquarter",
+        "osm_id": "255063240",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2010-04-25T06:05:31Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9936053,
+          14.545137
+        ]
+      },
+      "id": "node/255063240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255063581",
+        "addr:city": "Mandaluyong",
+        "addr:province": "Metro Manila",
+        "addr:street": "A. T. Reyes Street",
+        "amenity": "police",
+        "check_date": "2024-03-21",
+        "name": "Mandaluyong Police Community Precinct 1",
+        "operator": "Philippine National Police",
+        "osm_id": "255063581",
+        "short_name": "PCP-1",
+        "timestamp": "2013-10-14T04:09:28Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0268436,
+          14.5897925
+        ]
+      },
+      "id": "node/255063581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255064572",
+        "addr:city": "Valenzuela",
+        "addr:postcode": "1444",
+        "addr:street": "M. H. del Pilar Street",
+        "amenity": "police",
+        "name": "Pcp- 5",
+        "osm_id": "255064572",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2011-09-30T12:09:21Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.946227,
+          14.7081371
+        ]
+      },
+      "id": "node/255064572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255064648",
+        "addr:city": "Valenzuela",
+        "addr:postcode": "1440",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Station 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.025001,
+          14.68709
+        ]
+      },
+      "id": "node/255064648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255064839",
+        "addr:city": "Makati",
+        "addr:postcode": "1233",
+        "addr:street": "Evangelista Street",
+        "amenity": "police",
+        "name": "PCP-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0120271,
+          14.541426
+        ]
+      },
+      "id": "node/255064839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255064989",
+        "addr:city": "Taguig",
+        "amenity": "police",
+        "name": "Taguig Traffic Police",
+        "operator": "City Government of Taguig",
+        "osm_id": "255064989",
+        "timestamp": "2011-01-03T07:21:07Z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0358949,
+          14.5069266
+        ]
+      },
+      "id": "node/255064989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255065215",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "alt_name": "WPD Station № 3",
+        "amenity": "police",
+        "name": "Central Market Police Station",
+        "osm_id": "255065215",
+        "short_name": "PS-3",
+        "timestamp": "2013-10-14T04:54:15Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9846776,
+          14.6039633
+        ]
+      },
+      "id": "node/255065215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255065336",
+        "addr:city": "Manila",
+        "addr:district": "Malate",
+        "addr:postcode": "1004",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "fixme": "location",
+        "name": "Pcp-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9945305,
+          14.5623148
+        ]
+      },
+      "id": "node/255065336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255066642",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "addr:street": "Santa Isabela Street",
+        "amenity": "police",
+        "name": "Police Community Precint № 1",
+        "osm_id": "255066642",
+        "timestamp": "2013-10-12T14:45:03Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.059608,
+          14.571531
+        ]
+      },
+      "id": "node/255066642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255067324",
+        "addr:city": "Marikina",
+        "amenity": "police",
+        "is_in:city": "Marikina",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1800",
+        "name": "Central Police Station",
+        "osm_id": "255067324",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2011-02-14T18:54:11Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.100654,
+          14.6330419
+        ]
+      },
+      "id": "node/255067324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255067580",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Police Community Precinct № 7",
+        "osm_id": "255067580",
+        "short_name": "PCP 7",
+        "timestamp": "2013-10-12T14:45:04Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0818435,
+          14.5587257
+        ]
+      },
+      "id": "node/255067580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255067595",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Pcp-2",
+        "osm_id": "255067595",
+        "timestamp": "2013-10-12T14:45:03Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0783786,
+          14.5780621
+        ]
+      },
+      "id": "node/255067595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255067622",
+        "addr:city": "Makati",
+        "addr:postcode": "1210",
+        "amenity": "police",
+        "name": "Pcp-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0313601,
+          14.5666316
+        ]
+      },
+      "id": "node/255067622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255068202",
+        "addr:city": "Quezon City",
+        "alt_name": "La Loma Station",
+        "amenity": "police",
+        "name": "QCPD Station 1",
+        "osm_id": "255068202",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2010-10-24T04:46:55Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9949851,
+          14.6318513
+        ]
+      },
+      "id": "node/255068202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255069680",
+        "addr:city": "Caloocan",
+        "addr:street": "Zabarte Road",
+        "amenity": "police",
+        "is_in:city": "Kalookan",
+        "is_in:region": "Ncr",
+        "is_in:zip": "1400",
+        "name": "Sub-station 4",
+        "opening_hours": "24/7",
+        "osm_id": "255069680",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.044197,
+          14.75145
+        ]
+      },
+      "id": "node/255069680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255069799",
+        "amenity": "police",
+        "garmin:description": "police station",
+        "is_in:zip": "1630",
+        "name": "Pcp- 3",
+        "osm_id": "255069799",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2010-01-24T01:35:50Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0464199,
+          14.4869974
+        ]
+      },
+      "id": "node/255069799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255069800",
+        "amenity": "police",
+        "garmin:description": "police station",
+        "is_in:zip": "1770",
+        "name": "Pcp-1",
+        "osm_id": "255069800",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2011-02-14T18:53:31Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0445599,
+          14.3947148
+        ]
+      },
+      "id": "node/255069800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255069851",
+        "addr:city": "Pasay",
+        "addr:postcode": "1300",
+        "addr:street": "F. Cruz Street",
+        "amenity": "police",
+        "name": "PCP 6",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0082732,
+          14.5370798
+        ]
+      },
+      "id": "node/255069851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255069882",
+        "addr:city": "Pasay",
+        "amenity": "police",
+        "name": "Police Community Precinct 10",
+        "short_name": "PCP-10",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0287462,
+          14.5083513
+        ]
+      },
+      "id": "node/255069882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255070426",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Pcp-6",
+        "osm_id": "255070426",
+        "timestamp": "2013-10-12T14:45:04Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0794801,
+          14.5665337
+        ]
+      },
+      "id": "node/255070426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255070470",
+        "addr:city": "Quezon City",
+        "addr:postcode": "1100",
+        "addr:state": "NCR",
+        "amenity": "police",
+        "name": "Station 2",
+        "osm_id": "255070470",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2012-07-21T01:11:43Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0280928,
+          14.6477905
+        ]
+      },
+      "id": "node/255070470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255070474",
+        "addr:city": "Pasay",
+        "addr:postcode": "1300",
+        "addr:street": "Apelo Cruz Extension",
+        "amenity": "police",
+        "name": "PCP 7",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0097537,
+          14.5337118
+        ]
+      },
+      "id": "node/255070474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255071033",
+        "addr:city": "Makati",
+        "addr:postcode": "1212",
+        "amenity": "police",
+        "name": "Police Sub-Station 7",
+        "osm_id": "255071033",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2014-03-08T15:08:04Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0457858,
+          14.5652039
+        ]
+      },
+      "id": "node/255071033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255071178",
+        "addr:city": "Parañaque",
+        "addr:postcode": "1701",
+        "addr:street": "Quirino Avenue",
+        "amenity": "police",
+        "name": "Parañaque Central Police Station",
+        "osm_id": "255071178",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2013-10-01T08:49:07Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9910888,
+          14.5007998
+        ]
+      },
+      "id": "node/255071178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/255071445",
+        "addr:city": "Manila",
+        "addr:postcode": "1017",
+        "addr:street": "Dagonoy Street",
+        "amenity": "police",
+        "name": "Dagonoy Police Community Precint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0044632,
+          14.5720282
+        ]
+      },
+      "id": "node/255071445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/305605717",
+        "addr:city": "San Pablo",
+        "addr:postcode": "4000",
+        "addr:street": "Trece Martirez Street",
+        "amenity": "police",
+        "name": "San Pablo City Police Intelligence and Narcotics Division",
+        "osm_id": "305605717",
+        "timestamp": "2013-10-05T07:37:37Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3254008,
+          14.0742534
+        ]
+      },
+      "id": "node/305605717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/320864273",
+        "addr:street": "Seaside Boulevard",
+        "amenity": "police",
+        "name": "Pasay Police Community Precint № 11",
+        "osm_id": "320864273",
+        "timestamp": "2010-01-27T10:31:45Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9794859,
+          14.5360346
+        ]
+      },
+      "id": "node/320864273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325291008",
+        "amenity": "police",
+        "name": "San Pablo City Police",
+        "osm_id": "325291008",
+        "timestamp": "2011-05-09T02:08:36Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3238758,
+          14.0675915
+        ]
+      },
+      "id": "node/325291008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/340384547",
+        "amenity": "police",
+        "name": "Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0446878,
+          14.8106219
+        ]
+      },
+      "id": "node/340384547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356665681",
+        "amenity": "police",
+        "name": "Police Community Post",
+        "osm_id": "356665681",
+        "timestamp": "2011-07-20T06:27:03Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5218061,
+          14.6754294
+        ]
+      },
+      "id": "node/356665681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357738999",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "contributor:ph": "tbate",
+        "name": "San Mateo Police Substation",
+        "osm_id": "357738999",
+        "timestamp": "2013-10-12T12:53:13Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1120152,
+          14.6779267
+        ]
+      },
+      "id": "node/357738999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/378655973",
+        "amenity": "police",
+        "name": "Santa Rosa City Police",
+        "osm_id": "378655973",
+        "timestamp": "2011-10-31T08:10:53Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1103852,
+          14.3158018
+        ]
+      },
+      "id": "node/378655973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/382838764",
+        "addr:street": "Roman Superhighway",
+        "amenity": "police",
+        "name": "PNP Mariveles COMPAC 100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6016409,
+          14.5009649
+        ]
+      },
+      "id": "node/382838764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/384843739",
+        "addr:city": "Tagaytay",
+        "addr:postcode": "4120",
+        "addr:province": "Cavite",
+        "amenity": "police",
+        "operator": "Philippine National Police",
+        "osm_id": "384843739",
+        "timestamp": "2013-10-15T17:27:39Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.938405,
+          14.100138
+        ]
+      },
+      "id": "node/384843739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/402287519",
+        "amenity": "police",
+        "osm_id": "402287519",
+        "timestamp": "2013-10-15T17:14:38Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9326403,
+          14.1033984
+        ]
+      },
+      "id": "node/402287519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/447803528",
+        "amenity": "police",
+        "name": "Police Station",
+        "osm_id": "447803528",
+        "timestamp": "2013-10-15T17:25:50Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9851547,
+          14.4024903
+        ]
+      },
+      "id": "node/447803528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457873981",
+        "addr:town": "Sariaya",
+        "alt_name": "Quezon Police Provincial Office",
+        "amenity": "police",
+        "name": "Sariaya Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5238141,
+          13.9626943
+        ]
+      },
+      "id": "node/457873981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560411120",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Brgy Police Force BDS",
+        "note": "Towerville Phase 4B",
+        "osm_id": "560411120",
+        "timestamp": "2013-02-06T11:04:18Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.093245,
+          14.841285
+        ]
+      },
+      "id": "node/560411120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560411151",
+        "amenity": "police",
+        "building": "yes",
+        "name": "PNP Compaq 7",
+        "note": "PNP Compaq 7",
+        "osm_id": "560411151",
+        "timestamp": "2013-02-06T11:04:20Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.081842,
+          14.835628
+        ]
+      },
+      "id": "node/560411151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/582962545",
+        "addr:street": "J. P. Rizal Street",
+        "amenity": "police",
+        "name": "Obando Police Station",
+        "source": "Benta Serbisyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.935307,
+          14.7115714
+        ]
+      },
+      "id": "node/582962545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/589651723",
+        "amenity": "police",
+        "name": "Balagtas Police Station",
+        "osm_id": "589651723",
+        "source": "Benta Serbisyo",
+        "timestamp": "2009-12-26T17:47:03Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9082298,
+          14.817645
+        ]
+      },
+      "id": "node/589651723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/597597046",
+        "admin_level": "6",
+        "amenity": "police",
+        "mapillary": "935295800481605",
+        "name": "Imus City Police Outpost 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9686378,
+          14.3960877
+        ]
+      },
+      "id": "node/597597046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/606291128",
+        "addr:city": "Los Baños",
+        "addr:postcode": "4030",
+        "addr:street": "Villegas",
+        "amenity": "police",
+        "level": "0",
+        "name": "Los Baños Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2244839,
+          14.1819119
+        ]
+      },
+      "id": "node/606291128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/650001639",
+        "addr:city": "General Trias",
+        "addr:postcode": "4107",
+        "amenity": "police",
+        "name": "General Trias City Police Station",
+        "opening_hours": "24/7",
+        "osm_id": "650001639",
+        "timestamp": "2013-10-15T17:36:51Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8802391,
+          14.3866429
+        ]
+      },
+      "id": "node/650001639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662713169",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "osm_id": "662713169",
+        "timestamp": "2013-10-14T04:54:49Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9872539,
+          14.5598473
+        ]
+      },
+      "id": "node/662713169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662714403",
+        "addr:barangay": "Manggahan",
+        "addr:city": "General Trias",
+        "addr:country": "PH",
+        "addr:postcode": "4107",
+        "addr:province": "Cavite",
+        "addr:street": "Governor Juanito R. Remulla, Sr. Road",
+        "addr:street:corner": "Crisanto M. Delos Reyes Avenue",
+        "amenity": "police",
+        "name": "Gen. Trias Police Substation",
+        "opening_hours": "24/7",
+        "osm_id": "662714403",
+        "phone": "+63 49 402 1476",
+        "timestamp": "2014-03-20T16:06:42Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9110232,
+          14.2919533
+        ]
+      },
+      "id": "node/662714403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/662717155",
+        "amenity": "police",
+        "name": "Cavite Mobile Patrol Javalera",
+        "osm_id": "662717155",
+        "timestamp": "2013-10-15T17:41:01Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9142222,
+          14.2614888
+        ]
+      },
+      "id": "node/662717155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/671189196",
+        "amenity": "police",
+        "name": "San Miguel Police Assistance Center",
+        "osm_id": "671189196",
+        "timestamp": "2010-03-21T08:55:16Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1553107,
+          14.1024589
+        ]
+      },
+      "id": "node/671189196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/672667263",
+        "addr:city": "Marikina",
+        "addr:quarter": "Fortune",
+        "addr:street": "Champaca 1",
+        "amenity": "police",
+        "name": "PCP",
+        "osm_id": "672667263",
+        "timestamp": "2014-08-22T06:28:58Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1275081,
+          14.6632601
+        ]
+      },
+      "id": "node/672667263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/677320795",
+        "addr:city": "Tiaong",
+        "addr:postcode": "4325",
+        "addr:street": "Maharlika Highway",
+        "amenity": "police",
+        "name": "Police Provincial Mobile Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3252034,
+          13.9794267
+        ]
+      },
+      "id": "node/677320795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/677321006",
+        "addr:city": "Dolores",
+        "addr:place": "Bungoy",
+        "addr:postcode": "4326",
+        "amenity": "police",
+        "name": "Brgy Bungoy Police Outpost",
+        "note": "28-MAR-10 12:51:56PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3621895,
+          13.9930151
+        ]
+      },
+      "id": "node/677321006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/685091159",
+        "addr:city": "Los Baños",
+        "addr:postcode": "4030",
+        "addr:street": "Calamba - Los Baños Road",
+        "amenity": "police",
+        "name": "Aguas Vivas Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2034595,
+          14.1719328
+        ]
+      },
+      "id": "node/685091159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/696288642",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "BCEO-TCMP Pasig",
+        "note": "20-MAR-10 12:37:22PM",
+        "osm_id": "696288642",
+        "source": "rally & andre",
+        "timestamp": "2013-10-11T14:31:57Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0884764,
+          14.6198835
+        ]
+      },
+      "id": "node/696288642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/702067499",
+        "addr:postcode": "1920",
+        "addr:province": "Rizal",
+        "addr:town": "Taytay",
+        "amenity": "police",
+        "name": "Barangay Outpost",
+        "osm_id": "702067499",
+        "timestamp": "2013-10-13T15:58:50Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1490497,
+          14.5711522
+        ]
+      },
+      "id": "node/702067499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/772359208",
+        "amenity": "police",
+        "name": "Ilaya del Norte Barangay Police",
+        "osm_id": "772359208",
+        "timestamp": "2012-01-13T12:17:33Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4846324,
+          14.3642927
+        ]
+      },
+      "id": "node/772359208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/776002008",
+        "amenity": "police",
+        "name": "Calauan Precint 2",
+        "osm_id": "776002008",
+        "timestamp": "2011-04-30T10:14:11Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3122574,
+          14.1507156
+        ]
+      },
+      "id": "node/776002008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/786485160",
+        "amenity": "police",
+        "name": "Balagtas Municipal Jail",
+        "osm_id": "786485160",
+        "timestamp": "2010-06-24T03:33:53Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9085678,
+          14.8177067
+        ]
+      },
+      "id": "node/786485160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/832354514",
+        "amenity": "police",
+        "name": "Lipa City Police",
+        "osm_id": "832354514",
+        "timestamp": "2010-07-25T04:37:53Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1657846,
+          13.9608233
+        ]
+      },
+      "id": "node/832354514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/914302931",
+        "addr:city": "Pakil",
+        "addr:postcode": "4017",
+        "amenity": "police",
+        "osm_id": "914302931",
+        "timestamp": "2013-03-30T06:48:30Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4785821,
+          14.3810163
+        ]
+      },
+      "id": "node/914302931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/925128115",
+        "amenity": "police",
+        "osm_id": "925128115",
+        "timestamp": "2010-09-25T08:16:33Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1523968,
+          14.080107
+        ]
+      },
+      "id": "node/925128115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/925986474",
+        "addr:city": "Cainta",
+        "addr:postcode": "1900",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "osm_id": "925986474",
+        "timestamp": "2013-10-13T16:06:00Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1089181,
+          14.6356842
+        ]
+      },
+      "id": "node/925986474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/931621502",
+        "addr:city": "Alfonso",
+        "addr:street": "Libertad",
+        "amenity": "police",
+        "osm_id": "931621502",
+        "timestamp": "2013-10-15T17:12:49Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8554379,
+          14.1384387
+        ]
+      },
+      "id": "node/931621502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934864707",
+        "amenity": "police",
+        "name": "Nasugbu Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6320225,
+          14.0739465
+        ]
+      },
+      "id": "node/934864707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/950920186",
+        "addr:postcode": "1920",
+        "addr:province": "Rizal",
+        "addr:quarter": "Lupang Arenda",
+        "addr:town": "Taytay",
+        "addr:village": "Santa Ana",
+        "amenity": "police",
+        "note": "near a cell site tower",
+        "osm_id": "950920186",
+        "timestamp": "2013-10-13T15:59:22Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1111628,
+          14.5401534
+        ]
+      },
+      "id": "node/950920186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/965934031",
+        "amenity": "police",
+        "osm_id": "965934031",
+        "timestamp": "2011-11-18T13:14:51Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.223372,
+          14.0573048
+        ]
+      },
+      "id": "node/965934031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/983057841",
+        "addr:city": "Bacoor",
+        "addr:postcode": "4102",
+        "addr:street": "Marcos Alvarez Avenue",
+        "amenity": "police",
+        "name": "Soldiers Hill Precinct",
+        "operator": "Bacoor City Police, Cavite Police Provincial Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.990577,
+          14.4124173
+        ]
+      },
+      "id": "node/983057841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1008285126",
+        "amenity": "police",
+        "name": "Lalaan 2 Police Substation",
+        "osm_id": "1008285126",
+        "timestamp": "2013-10-15T17:32:18Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9580725,
+          14.1583475
+        ]
+      },
+      "id": "node/1008285126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1017514367",
+        "amenity": "police",
+        "name": "Silang Police Headquarter",
+        "osm_id": "1017514367",
+        "timestamp": "2013-10-15T17:22:38Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9747022,
+          14.2235904
+        ]
+      },
+      "id": "node/1017514367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1037921414",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Police Station",
+        "osm_id": "1037921414",
+        "timestamp": "2013-10-14T04:54:31Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9788065,
+          14.5941953
+        ]
+      },
+      "id": "node/1037921414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1044540159",
+        "amenity": "police",
+        "osm_id": "1044540159",
+        "timestamp": "2013-10-15T17:17:53Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9798349,
+          14.3731057
+        ]
+      },
+      "id": "node/1044540159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1055759056",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "osm_id": "1055759056",
+        "timestamp": "2013-10-14T04:54:32Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9782835,
+          14.5921529
+        ]
+      },
+      "id": "node/1055759056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1058992625",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "EAC Outpost",
+        "operator": "Manila Police District Precint 5",
+        "osm_id": "1058992625",
+        "source": "Walking Papers",
+        "timestamp": "2013-10-14T04:52:40Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9861761,
+          14.5819555
+        ]
+      },
+      "id": "node/1058992625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1079179379",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "addr:street": "C-6 Road",
+        "amenity": "police",
+        "building": "yes",
+        "osm_id": "1079179379",
+        "timestamp": "2013-10-11T14:32:55Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1042255,
+          14.5348536
+        ]
+      },
+      "id": "node/1079179379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1080178789",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "addr:street": "Dr. Sixto Antonio Avenue",
+        "alt_name": "Pasig Police Sub-station № 2",
+        "amenity": "police",
+        "mapillary": "321350510066942",
+        "name": "Caniogan Police Sub-station",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0761348,
+          14.566902
+        ]
+      },
+      "id": "node/1080178789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1183957310",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "osm_id": "1183957310",
+        "timestamp": "2013-10-12T12:53:27Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1563885,
+          14.6232886
+        ]
+      },
+      "id": "node/1183957310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1188819081",
+        "amenity": "police",
+        "name": "Police Community Precinct 1",
+        "name:abbr": "PCP-1",
+        "osm_id": "1188819081",
+        "timestamp": "2011-03-06T08:19:37Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9942343,
+          14.5274292
+        ]
+      },
+      "id": "node/1188819081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1256734015",
+        "addr:city": "Pangil",
+        "addr:postcode": "4018",
+        "amenity": "police",
+        "name": "Pangil Police",
+        "osm_id": "1256734015",
+        "timestamp": "2013-03-28T07:47:58Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4683655,
+          14.4027548
+        ]
+      },
+      "id": "node/1256734015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1273269496",
+        "addr:city": "Taguig",
+        "addr:street": "C5 Palar Service Road",
+        "amenity": "police",
+        "mapillary": "1928014200705838",
+        "name": "Pinagsama Police Sub-station № 3",
+        "timestamp": "2012-11-02T15:26:20Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0572948,
+          14.5330416
+        ]
+      },
+      "id": "node/1273269496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1277182553",
+        "addr:city": "Paranaque, PH",
+        "addr:street": "Dr. Arcadio Santos Avenue",
+        "amenity": "police",
+        "name": "Police Community Precinct № 6",
+        "osm_id": "1277182553",
+        "timestamp": "2011-05-08T15:34:04Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0441788,
+          14.453914
+        ]
+      },
+      "id": "node/1277182553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1282295925",
+        "addr:city": "Alaminos",
+        "addr:postcode": "4001",
+        "amenity": "police",
+        "name": "Alaminos Municipal Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2470567,
+          14.0654104
+        ]
+      },
+      "id": "node/1282295925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1283766597",
+        "addr:city": "Calauan",
+        "addr:postcode": "4012",
+        "addr:street": "Bay - Victoria Road",
+        "amenity": "police",
+        "name": "Calauan Police",
+        "name:en": "Calauan - Bangyas Police Post",
+        "opening_hours": "24/7",
+        "osm_id": "1283766597",
+        "timestamp": "2013-04-05T05:20:06Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3168258,
+          14.1773345
+        ]
+      },
+      "id": "node/1283766597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1292507696",
+        "addr:city": "Pasig",
+        "addr:province": "Metro Manila",
+        "addr:street": "Elisco Road",
+        "amenity": "police",
+        "name": "PCP № 2",
+        "osm_id": "1292507696",
+        "timestamp": "2013-10-11T14:32:49Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0763884,
+          14.5510546
+        ]
+      },
+      "id": "node/1292507696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1293229572",
+        "addr:city": "Victoria",
+        "amenity": "police",
+        "osm_id": "1293229572",
+        "timestamp": "2012-04-30T10:17:31Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3351708,
+          14.1867623
+        ]
+      },
+      "id": "node/1293229572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1301676981",
+        "addr:city": "Pila",
+        "addr:postcode": "4010",
+        "amenity": "police",
+        "name": "Pila Police",
+        "osm_id": "1301676981",
+        "timestamp": "2013-04-19T09:47:05Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.365814,
+          14.2355743
+        ]
+      },
+      "id": "node/1301676981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1308488871",
+        "addr:city": "Pagsanjan",
+        "addr:postcode": "4008",
+        "addr:street": "J. P. Rizal",
+        "amenity": "police",
+        "name": "Pagsanjan Police Station",
+        "osm_id": "1308488871",
+        "timestamp": "2012-02-06T02:45:44Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4557604,
+          14.2725841
+        ]
+      },
+      "id": "node/1308488871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1311929356",
+        "addr:city": "Las Piñas",
+        "addr:street": "CAA Avenue",
+        "amenity": "police",
+        "osm_id": "1311929356",
+        "timestamp": "2011-06-04T14:58:16Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9939088,
+          14.4467311
+        ]
+      },
+      "id": "node/1311929356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319484263",
+        "addr:postcode": "3002",
+        "addr:street": "Emilio G. Perez Street",
+        "addr:town": "Hagonoy",
+        "amenity": "police",
+        "name": "Hagonoy Police Station",
+        "operator": "Bulacan Police Provincial Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7340169,
+          14.8357698
+        ]
+      },
+      "id": "node/1319484263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319873625",
+        "addr:city": "Pateros",
+        "addr:street": "P. Rosales Street",
+        "amenity": "police",
+        "name": "Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0760729,
+          14.5470939
+        ]
+      },
+      "id": "node/1319873625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1332037005",
+        "addr:city": "Tayabas",
+        "addr:postcode": "4327",
+        "addr:street": "Maharlika Highway",
+        "amenity": "police",
+        "name": "Calumpang Public Assistance Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5561195,
+          13.9753331
+        ]
+      },
+      "id": "node/1332037005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1332037022",
+        "addr:city": "Tayabas",
+        "addr:postcode": "4327",
+        "addr:street": "Maharlika Highway",
+        "amenity": "police",
+        "name": "CALABARZON Monitoring Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.556239,
+          13.9754696
+        ]
+      },
+      "id": "node/1332037022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1358435895",
+        "amenity": "police",
+        "osm_id": "1358435895",
+        "timestamp": "2011-07-12T01:08:57Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1525364,
+          14.0916466
+        ]
+      },
+      "id": "node/1358435895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1363142231",
+        "amenity": "police",
+        "name": "General Mariano Alvarez Municipal Police Station",
+        "osm_id": "1363142231",
+        "timestamp": "2013-10-15T17:37:19Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0071497,
+          14.2958834
+        ]
+      },
+      "id": "node/1363142231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1367393023",
+        "amenity": "police",
+        "name": "Tuyo Community Police",
+        "osm_id": "1367393023",
+        "timestamp": "2011-07-20T01:30:13Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5383315,
+          14.6958077
+        ]
+      },
+      "id": "node/1367393023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1369661060",
+        "amenity": "police",
+        "name": "Ternate Police Station",
+        "osm_id": "1369661060",
+        "timestamp": "2013-10-15T17:20:51Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7200798,
+          14.2841284
+        ]
+      },
+      "id": "node/1369661060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1412141682",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "addr:street": "Kalaw Avenue",
+        "amenity": "police",
+        "name": "Tourist Police Station",
+        "osm_id": "1412141682",
+        "timestamp": "2013-10-14T04:54:21Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9814114,
+          14.5824944
+        ]
+      },
+      "id": "node/1412141682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1444184606",
+        "amenity": "police",
+        "osm_id": "1444184606",
+        "timestamp": "2013-10-15T17:16:42Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9241953,
+          14.4114408
+        ]
+      },
+      "id": "node/1444184606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1454723792",
+        "addr:barangay": "Poblacion III-A",
+        "addr:city": "Imus",
+        "addr:country": "PH",
+        "addr:postcode": "4103",
+        "addr:province": "Cavite",
+        "addr:street": "General J. Castañeda Street",
+        "amenity": "police",
+        "name": "Imus City Police Station",
+        "phone": "+63 46 515 2975;+63 46 471 2656;+63 46 471 3993; +63 916 444 4924",
+        "website": "https://www.cavite.gov.ph/home/index.php/cities-and-municipalities/district-iii/imus-city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9365574,
+          14.4294285
+        ]
+      },
+      "id": "node/1454723792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1573903904",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "name": "Police Outpost",
+        "osm_id": "1573903904",
+        "timestamp": "2013-10-12T12:53:06Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2902744,
+          14.4949704
+        ]
+      },
+      "id": "node/1573903904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1583696963",
+        "amenity": "police",
+        "level": "0",
+        "police": "private_security",
+        "smoking": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9579897,
+          14.3009198
+        ]
+      },
+      "id": "node/1583696963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1598554051",
+        "addr:city": "Mandaluyong",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Barangay Community Police Station",
+        "operator": "Barangay Government of Wack-Wack Greenhills, Mandaluyong City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0584623,
+          14.5942518
+        ]
+      },
+      "id": "node/1598554051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1633525471",
+        "amenity": "police",
+        "name": "Pagsanjan Police Base"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4373204,
+          14.2651331
+        ]
+      },
+      "id": "node/1633525471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1645517450",
+        "addr:city": "Muntinlupa",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0319116,
+          14.4234803
+        ]
+      },
+      "id": "node/1645517450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1797836391",
+        "addr:city": "Bacoor",
+        "addr:postcode": "4102",
+        "addr:street": "General Evangelista Street",
+        "amenity": "police",
+        "name": "Evangelista Bacoor PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9282282,
+          14.4518663
+        ]
+      },
+      "id": "node/1797836391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912742741",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.037251,
+          14.3100351
+        ]
+      },
+      "id": "node/1912742741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1952305571",
+        "amenity": "police",
+        "name": "FAB Police Station",
+        "osm_id": "1952305571",
+        "timestamp": "2012-10-08T09:06:47Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4989316,
+          14.4399775
+        ]
+      },
+      "id": "node/1952305571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1964728898",
+        "addr:city": "Tagaytay",
+        "addr:postcode": "4120",
+        "addr:street": "Tagaytay - Nasugbu Highway",
+        "amenity": "police",
+        "osm_id": "1964728898",
+        "timestamp": "2013-10-15T17:15:28Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9251954,
+          14.1000349
+        ]
+      },
+      "id": "node/1964728898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1983770760",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "osm_id": "1983770760",
+        "timestamp": "2013-10-14T04:54:42Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.984066,
+          14.5584271
+        ]
+      },
+      "id": "node/1983770760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1989696203",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "name": "Police Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1758244,
+          14.5808872
+        ]
+      },
+      "id": "node/1989696203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2004106467",
+        "addr:city": "Antipolo",
+        "addr:province": "Rizal",
+        "addr:street": "Ortigas Avenue Extension",
+        "amenity": "police",
+        "name": "Compac 3",
+        "official_name": "Community Police Assistance Center 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1572436,
+          14.586872
+        ]
+      },
+      "id": "node/2004106467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2021099137",
+        "amenity": "police",
+        "name": "Makiling Forest Reserve Monitoring Station",
+        "osm_id": "2021099137",
+        "timestamp": "2012-11-19T05:02:22Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2215066,
+          14.1622002
+        ]
+      },
+      "id": "node/2021099137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2022545583",
+        "amenity": "police",
+        "name": "Orani Police Station 2",
+        "osm_id": "2022545583",
+        "timestamp": "2012-11-20T04:38:15Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5372334,
+          14.8017262
+        ]
+      },
+      "id": "node/2022545583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2052353849",
+        "addr2:street": "Santo Cristo Street",
+        "addr:city": "Mandaluyong",
+        "addr:province": "Metro Manila",
+        "addr:street": "Shaw Boulevard",
+        "alt_name": "Wack Wack Police Sub Station 3",
+        "amenity": "police",
+        "level": "0",
+        "name": "Mandaluyong Police Community Precinct № 4",
+        "short_name": "Mandaluyong PCP 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.054806,
+          14.5802466
+        ]
+      },
+      "id": "node/2052353849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2094522306",
+        "addr:city": "Dasmariñas",
+        "addr:country": "PH",
+        "addr:postcode": "4114",
+        "addr:province": "Cavite",
+        "addr:street": "Malihan Street",
+        "amenity": "police",
+        "level": "0",
+        "name": "Dasmariñas City Police",
+        "opening_hours": "24/7",
+        "osm_id": "2094522306",
+        "smoking": "no",
+        "tactile_paving": "no",
+        "timestamp": "2013-10-15T17:39:33Z",
+        "type": "police",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9365751,
+          14.3267043
+        ]
+      },
+      "id": "node/2094522306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2102353934",
+        "addr:city": "Muntinlupa",
+        "addr:postcode": "1771",
+        "addr:street": "Don Jesus Boulevard",
+        "amenity": "police",
+        "mapillary": "454602985770094",
+        "operator": "Southern Police District, Philippine National Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.044623,
+          14.4344877
+        ]
+      },
+      "id": "node/2102353934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2110740234",
+        "addr:city": "Cabuyao",
+        "addr:postcode": "4025",
+        "amenity": "police",
+        "name": "Cabuyao City Police",
+        "osm_id": "2110740234",
+        "timestamp": "2013-06-02T06:34:23Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1243473,
+          14.2713107
+        ]
+      },
+      "id": "node/2110740234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2126363178",
+        "addr:city": "Manila",
+        "addr:district": "Santa Mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "amenity": "police",
+        "name": "Bacood Police Station",
+        "operator": "Manila Police District"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0207744,
+          14.5904792
+        ]
+      },
+      "id": "node/2126363178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2201991912",
+        "amenity": "police",
+        "name": "Barangay Pansol Purok 6 Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1873883,
+          14.1766496
+        ]
+      },
+      "id": "node/2201991912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2286478395",
+        "addr:city": "Bacoor",
+        "addr:postcode": "4102",
+        "addr:street": "Aguinaldo Boulevard",
+        "amenity": "police",
+        "name": "Bacoor Police Station",
+        "operator": "Cavite Police Provincial Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9599598,
+          14.4606911
+        ]
+      },
+      "id": "node/2286478395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2322740068",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "name": "Police outpost",
+        "osm_id": "2322740068",
+        "timestamp": "2013-10-12T12:53:07Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2850599,
+          14.4980159
+        ]
+      },
+      "id": "node/2322740068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2322746703",
+        "addr:city": "Manila",
+        "addr:province": "Metro Manila",
+        "addr:street": "Benavidez",
+        "admin_level": "10",
+        "amenity": "police",
+        "name": "Barangay 260 Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9776802,
+          14.6057277
+        ]
+      },
+      "id": "node/2322746703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2363159172",
+        "addr:province": "Rizal",
+        "addr:street": "Payatas Road",
+        "amenity": "police",
+        "fixme": "name",
+        "osm_id": "2363159172",
+        "timestamp": "2013-10-12T12:53:33Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1529857,
+          14.7613651
+        ]
+      },
+      "id": "node/2363159172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2443915638",
+        "addr:city": "Taytay",
+        "addr:postcode": "1920",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "name": "Municipal Public Safety Office (Fishport)",
+        "osm_id": "2443915638",
+        "timestamp": "2013-10-13T15:59:16Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1206887,
+          14.5491289
+        ]
+      },
+      "id": "node/2443915638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2483576784",
+        "addr:province": "Rizal",
+        "amenity": "police",
+        "name": "Morong Police Station",
+        "osm_id": "2483576784",
+        "timestamp": "2013-10-12T12:52:57Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2388601,
+          14.5129612
+        ]
+      },
+      "id": "node/2483576784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596298721",
+        "addr:city": "Famy",
+        "addr:postcode": "4021",
+        "addr:street": "Famy-Quezon Road",
+        "amenity": "police",
+        "name": "Famy Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4501057,
+          14.4373303
+        ]
+      },
+      "id": "node/2596298721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2596298726",
+        "addr:city": "Siniloan",
+        "addr:postcode": "4019",
+        "addr:street": "Famy - Infanta Road",
+        "amenity": "police",
+        "name": "Tourist Police",
+        "osm_id": "2596298726",
+        "timestamp": "2013-12-27T06:05:52Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4566674,
+          14.4454387
+        ]
+      },
+      "id": "node/2596298726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2601115282",
+        "addr:city": "Kalayaan",
+        "addr:postcode": "4015",
+        "addr:street": "Manila East Road",
+        "amenity": "police",
+        "name": "Kalayaan Police",
+        "osm_id": "2601115282",
+        "timestamp": "2013-12-30T12:34:19Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4804389,
+          14.3273016
+        ]
+      },
+      "id": "node/2601115282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2617585334",
+        "amenity": "police",
+        "osm_id": "2617585334",
+        "timestamp": "2014-01-10T17:11:43Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.097561,
+          14.6350954
+        ]
+      },
+      "id": "node/2617585334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2645897310",
+        "addr:city": "General Trias",
+        "addr:postcode": "4107",
+        "addr:street": "Arnaldo Highway",
+        "amenity": "police",
+        "name": "Brookside Police Station",
+        "osm_id": "2645897310",
+        "source": "Schadow1 Expeditions",
+        "timestamp": "2014-01-31T18:27:44Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9156702,
+          14.3152967
+        ]
+      },
+      "id": "node/2645897310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2674913180",
+        "amenity": "police",
+        "osm_id": "2674913180",
+        "timestamp": "2014-02-16T15:42:19Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1524309,
+          14.5324819
+        ]
+      },
+      "id": "node/2674913180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2738956830",
+        "amenity": "police",
+        "name": "Malinta Police Community Precinct",
+        "operator": "Philippine National Police",
+        "operator:short": "PNP",
+        "operator:wikidata": "Q963772",
+        "operator:wikipedia": "tl:Pambansang Pulisya ng Pilipinas",
+        "osm_id": "2738956830",
+        "timestamp": "2014-03-24T06:44:38Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9644655,
+          14.6921868
+        ]
+      },
+      "id": "node/2738956830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2846287617",
+        "addr:city": "Muntinlupa",
+        "addr:postcode": "1773",
+        "addr:street": "National Highway",
+        "amenity": "police",
+        "osm_id": "2846287617",
+        "timestamp": "2014-05-09T16:46:12Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0482384,
+          14.373387
+        ]
+      },
+      "id": "node/2846287617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2849688405",
+        "amenity": "police",
+        "name": "Charlie (Cavaliers) Company",
+        "note": "military check point",
+        "osm_id": "2849688405",
+        "timestamp": "2014-05-11T02:28:52Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.483194,
+          14.5527459
+        ]
+      },
+      "id": "node/2849688405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2972803268",
+        "addr:city": "Lucena",
+        "addr:postcode": "4301",
+        "addr:street": "Lucena Diversion Road",
+        "amenity": "police",
+        "int_ref": "AH26",
+        "name": "Lucena Diversion Road",
+        "nat_name": "MSR Diversion Road",
+        "ref": "1;AH26",
+        "timestamp": "2014-07-21T09:53:37Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5922115,
+          13.9611906
+        ]
+      },
+      "id": "node/2972803268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3145456700",
+        "amenity": "police",
+        "name": "Barangay Sub-station",
+        "osm_id": "3145456700",
+        "timestamp": "2014-10-23T13:25:51Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1382835,
+          14.7188683
+        ]
+      },
+      "id": "node/3145456700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3197999887",
+        "addr:city": "Navotas",
+        "addr:postcode": "1485",
+        "addr:street": "E. Rodriguez Street",
+        "amenity": "police",
+        "name": "Tanza Police Sub-station",
+        "operator": "Navotas City Police Office",
+        "short_name": "PCP-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.936464,
+          14.6765029
+        ]
+      },
+      "id": "node/3197999887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3212896390",
+        "addr:city": "Tayabas",
+        "addr:postcode": "4327",
+        "addr:street": "Jose Rizal",
+        "amenity": "police",
+        "name": "Tayabas Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5932933,
+          14.0245312
+        ]
+      },
+      "id": "node/3212896390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3238982943",
+        "addr:floor": "1st",
+        "addr:housename": "NAIA Terminal 2",
+        "amenity": "police",
+        "name": "Police Help Desk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0126758,
+          14.5097428
+        ]
+      },
+      "id": "node/3238982943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3288424894",
+        "addr:city": "Marikina",
+        "addr:street": "Capt. Venciong",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0955976,
+          14.6331681
+        ]
+      },
+      "id": "node/3288424894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3360883507",
+        "addr:city": "Nagcarlan",
+        "addr:postcode": "4002",
+        "addr:street": "Fernandez",
+        "amenity": "police",
+        "name": "Nagcarlan Police Outpost",
+        "operator": "Nagcarlan MPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4167323,
+          14.1367503
+        ]
+      },
+      "id": "node/3360883507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3442274208",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0232044,
+          14.5604935
+        ]
+      },
+      "id": "node/3442274208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3500218093",
+        "addr:city": "Pasay",
+        "addr:housename": "Pasay City Sports Complex",
+        "addr:street": "Derham Street",
+        "amenity": "police",
+        "name": "Pasay City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9935058,
+          14.5454154
+        ]
+      },
+      "id": "node/3500218093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3578952587",
+        "addr:city": "Marikina",
+        "addr:postcode": "1811",
+        "addr:street": "Lilac Street",
+        "addr:street:corner": "Sapphire Street",
+        "alt_name": "Concepcion Dos Police Sub Station",
+        "amenity": "police",
+        "mapillary": "115785777735312",
+        "name": "Marikina Community Police Precint № 8",
+        "operator": "Philippine National Police",
+        "short_name": "PCP № 8",
+        "source:position": "Mapillary 2022-03-13",
+        "survey:date": "2022-03-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1216995,
+          14.6396494
+        ]
+      },
+      "id": "node/3578952587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3603996801",
+        "amenity": "police",
+        "name": "Sub-Station 6 - Patrol Section",
+        "operator": "Malabon City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9470413,
+          14.6688353
+        ]
+      },
+      "id": "node/3603996801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3641004569",
+        "addr:city": "Bay",
+        "addr:postcode": "4033",
+        "addr:street": "Tanalega Street",
+        "amenity": "police",
+        "name": "Bay Police Station",
+        "phone": "+63 49 5363035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2845793,
+          14.1803272
+        ]
+      },
+      "id": "node/3641004569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3650427156",
+        "addr:city": "Marikina",
+        "addr:street": "Old J. P. Rizal Street",
+        "amenity": "police",
+        "name": "Nangka Police Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1087721,
+          14.6733496
+        ]
+      },
+      "id": "node/3650427156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3742212293",
+        "amenity": "police",
+        "name": "Malvar Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1567823,
+          14.0432107
+        ]
+      },
+      "id": "node/3742212293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3766903084",
+        "amenity": "police",
+        "name": "Mariveles Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4904613,
+          14.4361681
+        ]
+      },
+      "id": "node/3766903084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3906417080",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0579057,
+          14.5745293
+        ]
+      },
+      "id": "node/3906417080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3911978514",
+        "amenity": "police",
+        "name": "Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0299052,
+          14.5980399
+        ]
+      },
+      "id": "node/3911978514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4104993895",
+        "addr:city": "Manila",
+        "addr:street": "Simoun Street",
+        "amenity": "police",
+        "name": "Sibama Police Community Precinct 3",
+        "operator": "Sampaloc Police Station № 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9921011,
+          14.6210066
+        ]
+      },
+      "id": "node/4104993895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4118406196",
+        "amenity": "police",
+        "name": "Compact 4 PNP Sub Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1391198,
+          14.7461667
+        ]
+      },
+      "id": "node/4118406196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4118494690",
+        "amenity": "police",
+        "name": "Rodriguez Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1364094,
+          14.7305574
+        ]
+      },
+      "id": "node/4118494690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4125081490",
+        "addr:city": "Balanga",
+        "addr:street": "Primrose Street",
+        "amenity": "police",
+        "name": "Balanga City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5407005,
+          14.6832555
+        ]
+      },
+      "id": "node/4125081490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4125081791",
+        "amenity": "police",
+        "name": "Pilar Municipal Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5533707,
+          14.6683725
+        ]
+      },
+      "id": "node/4125081791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4125082690",
+        "amenity": "police",
+        "name": "PNP Community Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5069873,
+          14.4403084
+        ]
+      },
+      "id": "node/4125082690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4170564191",
+        "addr:street": "C. Laurel",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0216252,
+          14.0897103
+        ]
+      },
+      "id": "node/4170564191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4174135490",
+        "addr:street": "Sabino Padilla",
+        "amenity": "police",
+        "name": "Gandara Police Community Precinct",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.97719,
+          14.600051
+        ]
+      },
+      "id": "node/4174135490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4175755590",
+        "amenity": "police",
+        "name": "Calabash Police Community Precinct",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.003199,
+          14.6114875
+        ]
+      },
+      "id": "node/4175755590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4186250697",
+        "amenity": "police",
+        "name": "Tala Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.059962,
+          14.7678224
+        ]
+      },
+      "id": "node/4186250697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4191056491",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0564793,
+          14.7709337
+        ]
+      },
+      "id": "node/4191056491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4196499445",
+        "addr:city": "Mandaluyong",
+        "addr:postcode": "1550",
+        "addr:street": "Mayflower Street",
+        "amenity": "police",
+        "name": "Mandaluyong Police Community Precinct 5",
+        "name:en": "Mandaluyong Police Community Precinct 3",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0535323,
+          14.5778239
+        ]
+      },
+      "id": "node/4196499445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4247890903",
+        "addr:postcode": "3001",
+        "addr:town": "Paombong",
+        "amenity": "police",
+        "name": "Paombong Police Station",
+        "operator": "Bulacan Police Provincial Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7881127,
+          14.8354645
+        ]
+      },
+      "id": "node/4247890903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4272530989",
+        "amenity": "police",
+        "name": "Mercado Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7274344,
+          14.8283953
+        ]
+      },
+      "id": "node/4272530989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281349455",
+        "addr:street": "Doña Pilar Aguirre Avenue",
+        "amenity": "police",
+        "name": "Police Community Precinct - 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0089114,
+          14.424131
+        ]
+      },
+      "id": "node/4281349455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4318280802",
+        "amenity": "police",
+        "name": "Binakayan Police Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9233158,
+          14.4500107
+        ]
+      },
+      "id": "node/4318280802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4333492989",
+        "addr:city": "Quezon City",
+        "addr:street": "Quirino Highway",
+        "amenity": "police",
+        "mapillary": "730984218062932",
+        "name": "Gulod Police Community Precinct № 2",
+        "short_name": "PCP2",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0404034,
+          14.7168231
+        ]
+      },
+      "id": "node/4333492989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4364658998",
+        "amenity": "police",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.000353,
+          14.6012224
+        ]
+      },
+      "id": "node/4364658998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4392853489",
+        "addr:city": "Muntinlupa",
+        "addr:postcode": "1776",
+        "amenity": "police",
+        "name": "Southville 3A Police Community Precinct",
+        "operator": "Philippine National Police - Muntinlupa City Police District"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0243558,
+          14.371839
+        ]
+      },
+      "id": "node/4392853489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396263120",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0026317,
+          14.4379392
+        ]
+      },
+      "id": "node/4396263120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454592090",
+        "addr:housenumber": "7417",
+        "addr:street": "Santa Rita",
+        "amenity": "police",
+        "name": "Olifernes",
+        "name:en": "Olifernes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2493079,
+          14.1760245
+        ]
+      },
+      "id": "node/4454592090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454605389",
+        "amenity": "police",
+        "name": "Sister Ligaya",
+        "name:en": "Sister Ligaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2491434,
+          14.1760325
+        ]
+      },
+      "id": "node/4454605389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454942892",
+        "amenity": "police",
+        "name": "Sanchez",
+        "name:en": "Sanchez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.249647,
+          14.1758257
+        ]
+      },
+      "id": "node/4454942892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4454962589",
+        "addr:postcode": "4030",
+        "addr:street": "Santa Rita",
+        "amenity": "police",
+        "name": "Ativo",
+        "name:en": "Ativo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.249291,
+          14.1761048
+        ]
+      },
+      "id": "node/4454962589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4485383291",
+        "addr:street": "NARA AVENUE",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.984669,
+          14.2718035
+        ]
+      },
+      "id": "node/4485383291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4495339459",
+        "addr:housenumber": "34-11",
+        "addr:postcode": "1751",
+        "addr:street": "Sampaguita Street",
+        "amenity": "police",
+        "name": "ACPower Engineering Services",
+        "name:en": "ACPOWER ENGINEERING SERVICES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0194705,
+          14.4227228
+        ]
+      },
+      "id": "node/4495339459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4515575076",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1930534,
+          14.4642784
+        ]
+      },
+      "id": "node/4515575076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520639894",
+        "addr:street": "Casino Street",
+        "amenity": "police",
+        "name": "Palanan Police Station",
+        "official_name": "Makati Police Sub-station 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0056626,
+          14.5603236
+        ]
+      },
+      "id": "node/4520639894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4527629091",
+        "amenity": "police",
+        "name": "Task Force Commo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0878743,
+          14.6975409
+        ]
+      },
+      "id": "node/4527629091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4564395196",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0436723,
+          14.4137867
+        ]
+      },
+      "id": "node/4564395196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580455490",
+        "addr:street": "Mabuhay Rotonda",
+        "amenity": "police",
+        "name": "Police Community Precinct 1",
+        "name:en": "Police Community Precinct 1",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00176,
+          14.6174997
+        ]
+      },
+      "id": "node/4580455490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4607637304",
+        "addr:postcode": "1940",
+        "addr:street": "National Road",
+        "amenity": "police",
+        "name": "Binangonan Municipal Police Station",
+        "name:en": "Binangonan Municipal Police Station",
+        "phone": "+63 286520159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1881283,
+          14.4815519
+        ]
+      },
+      "id": "node/4607637304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4649834090",
+        "amenity": "police",
+        "name": "Police Palm Plaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.981093,
+          14.5732756
+        ]
+      },
+      "id": "node/4649834090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683395189",
+        "addr:street": "Rizal Street",
+        "amenity": "police",
+        "name": "San Pedro Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0574667,
+          14.3644713
+        ]
+      },
+      "id": "node/4683395189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707069893",
+        "addr:street": "Soler Street",
+        "amenity": "police",
+        "name": "Soler Police Precint MPD PS11",
+        "name:en": "Soler Police Precint MPD PS11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9709705,
+          14.6058735
+        ]
+      },
+      "id": "node/4707069893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707124891",
+        "addr:street": "Raxabago Street",
+        "amenity": "police",
+        "name": "Raxabago Police Station № 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9679762,
+          14.6210654
+        ]
+      },
+      "id": "node/4707124891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4746916121",
+        "addr:street": "Rizal Boulevard",
+        "amenity": "police",
+        "name": "Santa Rosa Laguna Police Station",
+        "name:en": "Santa Rosa Laguna Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1110318,
+          14.3155039
+        ]
+      },
+      "id": "node/4746916121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4790139421",
+        "amenity": "police",
+        "name": "Bagong Silang Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.044824,
+          14.7745152
+        ]
+      },
+      "id": "node/4790139421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801375383",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0754005,
+          14.7891269
+        ]
+      },
+      "id": "node/4801375383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4812536028",
+        "addr:street": "Pampanga",
+        "amenity": "police",
+        "name": "Gagalangin Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9736226,
+          14.6288627
+        ]
+      },
+      "id": "node/4812536028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4828747727",
+        "amenity": "police",
+        "name": "Soro Soro Police Station",
+        "name:en": "Soro Soro Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0686233,
+          14.3294262
+        ]
+      },
+      "id": "node/4828747727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837730421",
+        "amenity": "police",
+        "name": "Makati City Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0474338,
+          14.5679091
+        ]
+      },
+      "id": "node/4837730421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4855132524",
+        "amenity": "police",
+        "name": "Sampaloc Police Station",
+        "name:en": "Sampaloc Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3646191,
+          14.5460876
+        ]
+      },
+      "id": "node/4855132524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881008821",
+        "amenity": "police",
+        "name": "Baras Police Station",
+        "name:en": "Baras Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2605748,
+          14.5237854
+        ]
+      },
+      "id": "node/4881008821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4912234581",
+        "amenity": "police",
+        "name": "Police Community Precinct № 8",
+        "operator": "San Juan City Police Office",
+        "operator:type": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0314293,
+          14.6016987
+        ]
+      },
+      "id": "node/4912234581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4942186873",
+        "addr:city": "Calamba",
+        "addr:postcode": "4027",
+        "addr:street": "Makiling Drive",
+        "amenity": "police",
+        "name": "Carmelray II Police Assistance Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1370412,
+          14.1704964
+        ]
+      },
+      "id": "node/4942186873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4974141256",
+        "addr:city": "Quezon City",
+        "addr:street": "Kamuning Road",
+        "amenity": "police",
+        "name": "Kamuning Police Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0387398,
+          14.6285733
+        ]
+      },
+      "id": "node/4974141256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4988120329",
+        "amenity": "police",
+        "name": "Harmony Hills 1 Police Station",
+        "name:en": "Harmony Hills 1 Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0299434,
+          14.7838021
+        ]
+      },
+      "id": "node/4988120329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5021419122",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1154458,
+          14.2779278
+        ]
+      },
+      "id": "node/5021419122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5061992121",
+        "amenity": "police",
+        "description": "Community police precint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0440461,
+          14.2922801
+        ]
+      },
+      "id": "node/5061992121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142570622",
+        "addr:street": "General Kalentong Street",
+        "alt_name": "Mandaluyong Police Sub-station Ⅰ",
+        "amenity": "police",
+        "mapillary": "2849928195259822",
+        "name": "Pag-asa Police Sub-station",
+        "operator": "Mandaluyong City Police Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0253942,
+          14.5913857
+        ]
+      },
+      "id": "node/5142570622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142570722",
+        "addr:street": "Shaw Boulevard U-turn",
+        "amenity": "police",
+        "level": "0",
+        "name": "Mandaluyong MPU/STMRU Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0520936,
+          14.5826033
+        ]
+      },
+      "id": "node/5142570722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5158194721",
+        "amenity": "police",
+        "name": "police outpost",
+        "name:en": "police outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2443955,
+          14.1692365
+        ]
+      },
+      "id": "node/5158194721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5186061677",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0494103,
+          14.7612852
+        ]
+      },
+      "id": "node/5186061677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5200147021",
+        "addr:city": "Parañaque",
+        "addr:street": "Quirino Avenue",
+        "amenity": "police",
+        "name": "Police Community Precinct 1",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9968124,
+          14.5322366
+        ]
+      },
+      "id": "node/5200147021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5251246042",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9531021,
+          14.3014806
+        ]
+      },
+      "id": "node/5251246042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5257876616",
+        "amenity": "police",
+        "level": "0",
+        "name": "LPU-C Security",
+        "opening_hours": "Mo-Sa 06:00-20:00",
+        "police": "private_security",
+        "smoking": "no",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9152483,
+          14.291591
+        ]
+      },
+      "id": "node/5257876616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5377972627",
+        "addr:postcode": "1403",
+        "amenity": "police",
+        "name": "Police Community Precinct № 3",
+        "operator": "Caloocan City, Philippine National Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9881406,
+          14.6551726
+        ]
+      },
+      "id": "node/5377972627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5444456521",
+        "amenity": "police",
+        "name": "National Bureau of Investigation - Cavite District Office",
+        "nat_name": "National Bureau of Investigation",
+        "short_name": "NBI Cavite District Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.939485,
+          14.1013167
+        ]
+      },
+      "id": "node/5444456521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469036422",
+        "addr:street": "NIA Road",
+        "amenity": "police",
+        "name": "PDEA Special Enforcement Service",
+        "operator": "Philippine Drug Enforcement Agency",
+        "website": "http://www.pdea.gov.ph"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0421241,
+          14.639742
+        ]
+      },
+      "id": "node/5469036422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5585712312",
+        "addr:street": "Road 15",
+        "amenity": "police",
+        "name": "Bahay Toro Police Community Precinct",
+        "short_name": "PCP № 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0211809,
+          14.6646084
+        ]
+      },
+      "id": "node/5585712312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5608310721",
+        "addr:street": "Blk-66 lot-1 area-f purok-11 brgy. san pedro",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0529513,
+          14.8461445
+        ]
+      },
+      "id": "node/5608310721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5684438244",
+        "amenity": "police",
+        "description": "Police Station",
+        "name": "Cabading Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2258124,
+          14.6296033
+        ]
+      },
+      "id": "node/5684438244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5733604815",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8770637,
+          14.8274739
+        ]
+      },
+      "id": "node/5733604815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749690821",
+        "addr:street": "CAA Avenue",
+        "amenity": "police",
+        "name": "CAA Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9949266,
+          14.4614618
+        ]
+      },
+      "id": "node/5749690821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5948084152",
+        "amenity": "police",
+        "name": "Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9826621,
+          14.6884203
+        ]
+      },
+      "id": "node/5948084152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5948084154",
+        "amenity": "police",
+        "name": "Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9832576,
+          14.6895642
+        ]
+      },
+      "id": "node/5948084154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5950372299",
+        "amenity": "police",
+        "name": "Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9780135,
+          14.6864631
+        ]
+      },
+      "id": "node/5950372299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5950415379",
+        "amenity": "police",
+        "name": "Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9317742,
+          14.7233466
+        ]
+      },
+      "id": "node/5950415379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6048268364",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9868573,
+          14.5701096
+        ]
+      },
+      "id": "node/6048268364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6068268495",
+        "addr:street": "Bataan Provincial Expressway",
+        "amenity": "police",
+        "name": "PNP Mariveles COMPAC 200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5880178,
+          14.4566034
+        ]
+      },
+      "id": "node/6068268495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6091301796",
+        "amenity": "police",
+        "name": "Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9472794,
+          14.7147501
+        ]
+      },
+      "id": "node/6091301796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6091301797",
+        "amenity": "police",
+        "name": "Bantay Bantay Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.947451,
+          14.7139964
+        ]
+      },
+      "id": "node/6091301797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6091301798",
+        "amenity": "police",
+        "name": "Barangay Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9486654,
+          14.7176829
+        ]
+      },
+      "id": "node/6091301798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6091344458",
+        "amenity": "police",
+        "name": "Bata Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9443752,
+          14.7225083
+        ]
+      },
+      "id": "node/6091344458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6163150592",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0700752,
+          14.5252248
+        ]
+      },
+      "id": "node/6163150592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6216144786",
+        "addr2:street": "Saint Martin Street",
+        "addr:street": "Captain Henry Javier Street",
+        "amenity": "police",
+        "name": "Highway Patrol Group Clearance Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0652683,
+          14.5775735
+        ]
+      },
+      "id": "node/6216144786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6349150229",
+        "amenity": "police",
+        "name": "Barangay Outpost",
+        "operator:type": "barangay_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0493584,
+          14.4689586
+        ]
+      },
+      "id": "node/6349150229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6366897446",
+        "addr:city": "Siniloan",
+        "addr:postcode": "4019",
+        "amenity": "police",
+        "name": "Siniloan Police Station",
+        "osm_id": "796661938",
+        "timestamp": "2013-03-28T06:33:13Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4457055,
+          14.4215405
+        ]
+      },
+      "id": "node/6366897446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6380993937",
+        "amenity": "police",
+        "name": "Barangay Outpost",
+        "operator:type": "barangay_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0603395,
+          14.4903699
+        ]
+      },
+      "id": "node/6380993937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6381001889",
+        "amenity": "police",
+        "name": "Barangay Outpost",
+        "operator:type": "barangay_government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0592184,
+          14.4850478
+        ]
+      },
+      "id": "node/6381001889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6401339560",
+        "addr:city": "Santo Tomas",
+        "addr:postcode": "4234",
+        "addr:street": "Maharlika Highway",
+        "amenity": "police",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1459506,
+          14.1084326
+        ]
+      },
+      "id": "node/6401339560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6408064698",
+        "addr:street": "Ynares Avenue",
+        "amenity": "police",
+        "name": "Purok 6 Outpost Boundarey",
+        "operator": "Chairman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1085247,
+          14.5333963
+        ]
+      },
+      "id": "node/6408064698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6449466293",
+        "amenity": "police",
+        "name": "Police Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0573645,
+          14.5334992
+        ]
+      },
+      "id": "node/6449466293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6501983997",
+        "addr:street": "F. Concepcion Street",
+        "amenity": "police",
+        "name": "Police Community Precint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0742311,
+          14.5612779
+        ]
+      },
+      "id": "node/6501983997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521286285",
+        "amenity": "police",
+        "name": "Orani Police Station",
+        "name:en": "Orani Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.5280389,
+          14.8065671
+        ]
+      },
+      "id": "node/6521286285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6523052905",
+        "amenity": "police",
+        "name": "Bantay Bayan Outpost",
+        "operator": "Barangay Mabini-J. Rizal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0225622,
+          14.586823
+        ]
+      },
+      "id": "node/6523052905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6528177247",
+        "amenity": "police",
+        "name": "PNP Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0632718,
+          14.5869423
+        ]
+      },
+      "id": "node/6528177247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6541380970",
+        "amenity": "police",
+        "name": "PCP 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0968764,
+          14.5960831
+        ]
+      },
+      "id": "node/6541380970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6568964446",
+        "addr:street": "Archimedes Street",
+        "amenity": "police",
+        "name": "Makati Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0073615,
+          14.5683683
+        ]
+      },
+      "id": "node/6568964446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6964498785",
+        "addr:street": "Ynares Avenue",
+        "amenity": "police",
+        "name": "Arenda Tapayan Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1110714,
+          14.5406482
+        ]
+      },
+      "id": "node/6964498785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005519142",
+        "amenity": "police",
+        "opening_hours": "24/7",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8682667,
+          14.2822873
+        ]
+      },
+      "id": "node/7005519142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7022731494",
+        "amenity": "police",
+        "name": "Intramuros Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9788247,
+          14.5873532
+        ]
+      },
+      "id": "node/7022731494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7187287099",
+        "addr:street": "Dr. A. Natividad Street",
+        "amenity": "police",
+        "mapillary": "744885682835084",
+        "name": "Ibayo-TIpas Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0884688,
+          14.5406209
+        ]
+      },
+      "id": "node/7187287099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7192253808",
+        "addr:street": "F. Pike",
+        "amenity": "police",
+        "fixme": "name"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0694526,
+          14.5681165
+        ]
+      },
+      "id": "node/7192253808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7194651840",
+        "addr:street": "J. P. Rizal Street Extension",
+        "amenity": "police",
+        "name": "Makati Police Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0635672,
+          14.549058
+        ]
+      },
+      "id": "node/7194651840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7237897451",
+        "addr:street": "Diosdado Macapagal Boulevard",
+        "amenity": "police",
+        "mapillary": "474749813817605",
+        "name": "Parañaque City Police Community Precinct № 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.99042,
+          14.5167719
+        ]
+      },
+      "id": "node/7237897451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7363528785",
+        "amenity": "police",
+        "name": "Sub-Station 4",
+        "operator": "Malabon City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9602107,
+          14.6702152
+        ]
+      },
+      "id": "node/7363528785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7410607886",
+        "amenity": "police",
+        "operator": "PNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0267746,
+          14.63459
+        ]
+      },
+      "id": "node/7410607886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7440507610",
+        "addr:street": "Bambang Street",
+        "amenity": "police",
+        "mapillary": "1174853176293916",
+        "name": "Bambang Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9792915,
+          14.6113969
+        ]
+      },
+      "id": "node/7440507610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7483331804",
+        "addr:neighbourhood": "Purok 5",
+        "addr:province": "Rizal",
+        "addr:quarter": "Lupang Arenda",
+        "addr:street": "Masipag",
+        "addr:town": "Taytay",
+        "addr:village": "Santa Ana",
+        "amenity": "police",
+        "building": "yes",
+        "building:material": "concrete",
+        "name": "Purok 5 Outpost Barangay Santa Ana",
+        "ref:PH:CELO": "04-05-00576-B",
+        "roof:material": "metal sheet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1091907,
+          14.5351334
+        ]
+      },
+      "id": "node/7483331804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7525035690",
+        "addr:street": "National Road",
+        "amenity": "police",
+        "building": "civic",
+        "building:levels": "5",
+        "garmin:description": "police station",
+        "is_in:zip": "1770",
+        "osm_id": "255063367",
+        "source": "jklinc",
+        "source:url": "http://www.freewebs.com/phroadguide/",
+        "timestamp": "2014-09-29T07:09:35Z",
+        "type": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0447495,
+          14.3953552
+        ]
+      },
+      "id": "node/7525035690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7617931666",
+        "amenity": "police",
+        "police": "outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2421387,
+          14.1783296
+        ]
+      },
+      "id": "node/7617931666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7836311985",
+        "addr:postcode": "3020",
+        "addr:street": "Gulod Road",
+        "amenity": "police",
+        "name": "PNP Station Camalig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9966963,
+          14.7736875
+        ]
+      },
+      "id": "node/7836311985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7896516656",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.6249315,
+          14.2376221
+        ]
+      },
+      "id": "node/7896516656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8038138785",
+        "amenity": "police",
+        "name": "Caloocan City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0308572,
+          14.7484346
+        ]
+      },
+      "id": "node/8038138785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8477916408",
+        "addr:street": "Caruncho Avenue",
+        "amenity": "police",
+        "fixme": "name",
+        "mapillary": "1624707577738758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0850899,
+          14.559022
+        ]
+      },
+      "id": "node/8477916408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8478119155",
+        "amenity": "police",
+        "name": "405th"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4518833,
+          14.4311605
+        ]
+      },
+      "id": "node/8478119155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8496839835",
+        "addr:street": "Ramon Jabson Street",
+        "alt_name": "Malinao Sub-station",
+        "amenity": "police",
+        "mapillary": "918376832057454",
+        "name": "Pasig Sub-station № 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0760394,
+          14.558016
+        ]
+      },
+      "id": "node/8496839835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8578323450",
+        "addr:street": "National Road",
+        "amenity": "police",
+        "fixme": "name",
+        "mapillary": "4121126171260073",
+        "name": "Muntinlupa City Police Station Police Substation 1",
+        "operator": "Philippine National Police",
+        "operator:short": "PNP",
+        "operator:wikidata": "Q963772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0470696,
+          14.3769152
+        ]
+      },
+      "id": "node/8578323450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8597344780",
+        "addr:street": "Pio Alvarez Street",
+        "alt_name": "Police Community Precinct № 10",
+        "amenity": "police",
+        "name": "Bambang Police Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0820831,
+          14.5548234
+        ]
+      },
+      "id": "node/8597344780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8613759427",
+        "addr:street": "Mindanao Avenue",
+        "amenity": "police",
+        "fixme": "name",
+        "mapillary": "307218007624608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0538408,
+          14.4977343
+        ]
+      },
+      "id": "node/8613759427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8652201976",
+        "amenity": "police",
+        "name": "Delpan Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9645226,
+          14.5998948
+        ]
+      },
+      "id": "node/8652201976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8685244152",
+        "addr:city": "Valenzuela",
+        "addr:street": "MacArthur Highway",
+        "amenity": "police",
+        "name": "Valenzuela City Police Community Precinct 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9612704,
+          14.704229
+        ]
+      },
+      "id": "node/8685244152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8717675646",
+        "addr:street": "Camarin Road",
+        "alt_name": "Caloocan Police Sub-station № 8",
+        "amenity": "police",
+        "name": "Hillcrest Police Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0385306,
+          14.7510085
+        ]
+      },
+      "id": "node/8717675646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8737452120",
+        "amenity": "police",
+        "name": "Lawang Bato Station",
+        "operator": "Philippine National Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9931907,
+          14.7300372
+        ]
+      },
+      "id": "node/8737452120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8751784375",
+        "addr:street": "Lico",
+        "amenity": "police",
+        "name": "Lico Community Police Assistance Center",
+        "short_name": "Lico COMPAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9828387,
+          14.6244764
+        ]
+      },
+      "id": "node/8751784375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8826429716",
+        "amenity": "police",
+        "loc_name": "ERB Outpost",
+        "mapillary": "920321968752615",
+        "name": "Galas Police Station Ⅱ",
+        "operator": "Philippine National Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0155285,
+          14.6189133
+        ]
+      },
+      "id": "node/8826429716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8860848641",
+        "amenity": "police",
+        "name": "COMPAC Extension Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0861655,
+          14.7596781
+        ]
+      },
+      "id": "node/8860848641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8920806228",
+        "addr:street": "V. Pozon Street",
+        "amenity": "police",
+        "name": "Police Community Precinct № 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.078497,
+          14.5547676
+        ]
+      },
+      "id": "node/8920806228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8934965399",
+        "amenity": "police",
+        "name": "Police Community Precinct 4",
+        "operator": "Philippine National Police",
+        "operator:short": "PNP",
+        "operator:wikidata": "Q963772",
+        "operator:wikipedia": "tl:Pambansang Pulisya ng Pilipinas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9968369,
+          14.5220542
+        ]
+      },
+      "id": "node/8934965399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8990042117",
+        "addr:postcode": "1700",
+        "addr:street": "Quirino Avenue",
+        "amenity": "police",
+        "name": "La Huerta Barangay Outpost",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9924292,
+          14.5012884
+        ]
+      },
+      "id": "node/8990042117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9177839877",
+        "amenity": "police",
+        "fixme": "name"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9571676,
+          14.1315947
+        ]
+      },
+      "id": "node/9177839877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9397180323",
+        "amenity": "police",
+        "name": "Valenzuela Police Station - Police Assistance Desk #3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.976506,
+          14.6852423
+        ]
+      },
+      "id": "node/9397180323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9458409094",
+        "addr:quarter": "Baesa",
+        "addr:street": "Quirino Highway",
+        "alt_name": "Police Community Precinct № 3",
+        "amenity": "police",
+        "mapillary": "949076109193466",
+        "name": "Talipapa Police Station",
+        "short_name": "PCP № 3",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0087086,
+          14.6681018
+        ]
+      },
+      "id": "node/9458409094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9492703785",
+        "amenity": "police",
+        "name": "Valenzuela Police Station - Police Assisstance Desk 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9864,
+          14.7240928
+        ]
+      },
+      "id": "node/9492703785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9501082218",
+        "amenity": "police",
+        "name": "Task Force Disiplina Comlaint and Action Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0404754,
+          14.7218139
+        ]
+      },
+      "id": "node/9501082218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9531719622",
+        "amenity": "police",
+        "name": "Liliw Municipal Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4336266,
+          14.1337479
+        ]
+      },
+      "id": "node/9531719622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768685613",
+        "addr:street": "Molave Street",
+        "alt_name": "Police Substation № 2",
+        "amenity": "police",
+        "name": "Addition Hills, Police Substation № 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0365433,
+          14.5851253
+        ]
+      },
+      "id": "node/9768685613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9800560473",
+        "alt_name": "Manila Police Station № 12",
+        "amenity": "police",
+        "mapillary": "703606744120109",
+        "name": "Parola Police Community Precinct",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9604651,
+          14.5984244
+        ]
+      },
+      "id": "node/9800560473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9847973245",
+        "amenity": "police",
+        "door": "hinged",
+        "entrance": "yes",
+        "name": "General Trias Police Community Precinct",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9141381,
+          14.3192288
+        ]
+      },
+      "id": "node/9847973245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9952551810",
+        "addr:city": "Valenzuela",
+        "addr:postcode": "1440",
+        "addr:street": "Tongco Street",
+        "amenity": "police",
+        "name": "Maysan Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9798824,
+          14.698314
+        ]
+      },
+      "id": "node/9952551810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9958193933",
+        "addr:street": "Carlos Palanca Street",
+        "amenity": "police",
+        "mapillary": "719953122514547",
+        "name": "Palanca Community Police Precinct",
+        "short_name": "PCP 1",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842348,
+          14.5951364
+        ]
+      },
+      "id": "node/9958193933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10025895517",
+        "addr:street": "A. Bonifacio Street",
+        "amenity": "police",
+        "fixme": "name"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0324623,
+          14.5881358
+        ]
+      },
+      "id": "node/10025895517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088106946",
+        "addr:city": "Quezon City",
+        "addr:street": "Luzon Avenue",
+        "amenity": "police",
+        "mapillary": "506310591116735",
+        "name": "Police Community Precinct № 1",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0688786,
+          14.6720666
+        ]
+      },
+      "id": "node/10088106946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10120236039",
+        "amenity": "police",
+        "name": "Malolos City Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.8110466,
+          14.8437574
+        ]
+      },
+      "id": "node/10120236039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125158740",
+        "addr:city": "Quezon City",
+        "addr:street": "Quirino Highway",
+        "amenity": "police",
+        "mapillary": "1048040655811093",
+        "name": "Police Station № 16",
+        "source": "extrapolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0694244,
+          14.7354736
+        ]
+      },
+      "id": "node/10125158740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164182723",
+        "addr:city": "Quezon City",
+        "addr:street": "Pud Site",
+        "amenity": "police",
+        "name": "Escopa Police Community Precinct",
+        "operator": "Quezon City Police District",
+        "short_name": "PCP № 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0721435,
+          14.6278321
+        ]
+      },
+      "id": "node/10164182723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10226667726",
+        "addr:city": "Navotas",
+        "addr:postcode": "1485",
+        "addr:street": "M. Naval Street",
+        "amenity": "police",
+        "name": "Community Precinct № 3",
+        "operator": "Philippine National Police, Navotas Police Office",
+        "short_name": "PCP-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9486825,
+          14.6547554
+        ]
+      },
+      "id": "node/10226667726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10239200996",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0362348,
+          14.3009163
+        ]
+      },
+      "id": "node/10239200996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10677355697",
+        "addr:postcode": "4019",
+        "addr:street": "L. De Leon Street",
+        "addr:town": "Siniloan",
+        "amenity": "police",
+        "name": "Siniloan Police Office",
+        "source_ref": "https://www.bing.com/maps?cp=14.416116%7E121.446439&lvl=19.0&style=x&dir=240.7&pi=-0.8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4463218,
+          14.4160707
+        ]
+      },
+      "id": "node/10677355697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10679783954",
+        "addr:street": "Siniloan - Mabitac National Road",
+        "addr:town": "Mabitac",
+        "amenity": "police",
+        "name": "Mabitac Municipal Police Station",
+        "source": "interpolation",
+        "source_ref": "https://www.bing.com/maps?cp=14.425623%7E121.429725&lvl=19.0&style=x&dir=174&pi=2.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4296257,
+          14.425549
+        ]
+      },
+      "id": "node/10679783954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10740492905",
+        "addr:street": "Thomas Claudio cor. Laborer St.",
+        "amenity": "police",
+        "name:en": "Pandacan Police Station 10",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0033989,
+          14.5844047
+        ]
+      },
+      "id": "node/10740492905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10742526261",
+        "addr:street": "Manila East Road",
+        "addr:town": "Mabitac",
+        "amenity": "police",
+        "name": "Mabitac Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4235954,
+          14.4437688
+        ]
+      },
+      "id": "node/10742526261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10782462168",
+        "amenity": "police",
+        "name": "Marilao MPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9788791,
+          14.771472
+        ]
+      },
+      "id": "node/10782462168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10784647920",
+        "amenity": "police",
+        "name": "Community Police Assisstance Center 6",
+        "operator": "Meycauayan City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9636676,
+          14.7532968
+        ]
+      },
+      "id": "node/10784647920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10787049501",
+        "addr:city": "Marikina",
+        "amenity": "police",
+        "name": "Malanday Police Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0938946,
+          14.652513
+        ]
+      },
+      "id": "node/10787049501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10913135789",
+        "addr:city": "Mandaluyong",
+        "addr:postcode": "1550",
+        "addr:province": "Metro Manila",
+        "addr:quarter": "Hulo",
+        "addr:street": "Coronado Street",
+        "affiliation": "Eastern Police District",
+        "alt_name": "Police Sub Station 7;Mandaluyong Police Community Precinct 2",
+        "amenity": "police",
+        "check_date": "2023-04-30",
+        "contact:mobile": "+63 915 626 6196",
+        "name": "Hulo Police Sub-Station",
+        "source": "survey;maxar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0318474,
+          14.5701453
+        ]
+      },
+      "id": "node/10913135789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10981773372",
+        "amenity": "police",
+        "description": "Beside AP Cargo",
+        "name": "NAIA Terminal 4 Police Station",
+        "phone": "09954053092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0005462,
+          14.5253872
+        ]
+      },
+      "id": "node/10981773372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11049327939",
+        "amenity": "police",
+        "name": "Pandacan Police Station 10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0093085,
+          14.5907143
+        ]
+      },
+      "id": "node/11049327939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11053698376",
+        "amenity": "police",
+        "mobile": "+63 9985987914",
+        "name": "Meisic Police Station (PS-11)",
+        "phone": "82443079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9732004,
+          14.6043803
+        ]
+      },
+      "id": "node/11053698376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11062020475",
+        "alt_name": "Police Sub-Station 8",
+        "amenity": "police",
+        "name": "Valenzuela City Police Station - Mapulang Lupa SBYP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0007288,
+          14.7024547
+        ]
+      },
+      "id": "node/11062020475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11085853530",
+        "addr:city": "Manila",
+        "addr:district": "Santa Mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "addr:street": "Victorino Mapa Street",
+        "amenity": "police",
+        "name": "V. Mapa Police Community Precint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0171453,
+          14.5993689
+        ]
+      },
+      "id": "node/11085853530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11085853531",
+        "addr:city": "Manila",
+        "addr:district": "Santa Mesa",
+        "addr:postcode": "1016",
+        "addr:province": "Metro Manila",
+        "addr:street": "Magsaysay Boulevard",
+        "amenity": "police",
+        "name": "Santa Mesa Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0121667,
+          14.6022129
+        ]
+      },
+      "id": "node/11085853531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11121690413",
+        "air_conditioning": "yes",
+        "amenity": "police",
+        "indoor": "room",
+        "level": "0",
+        "name": "Robinsons Place Dasmariñas Security",
+        "office": "private_security",
+        "police": "private_security",
+        "social_facility": "shelter",
+        "social_facility:for": "women;child",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9539198,
+          14.2995355
+        ]
+      },
+      "id": "node/11121690413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11173244240",
+        "addr:street": "P. Oliveros Street",
+        "amenity": "police",
+        "name": "Barangka Police Sub-station",
+        "short_name": "PCP-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0410936,
+          14.5715114
+        ]
+      },
+      "id": "node/11173244240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11178234803",
+        "addr:street": "ARCA Boulevard",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0399468,
+          14.5057083
+        ]
+      },
+      "id": "node/11178234803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11377434769",
+        "addr:street": "Antero Soriano Highway",
+        "amenity": "police",
+        "name": "Naic Police Sub-Station",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.7912199,
+          14.3404094
+        ]
+      },
+      "id": "node/11377434769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11462331163",
+        "addr:street": "Santolan Road",
+        "amenity": "police",
+        "check_date": "2023-12-28",
+        "name": "San Juan City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0323486,
+          14.6054864
+        ]
+      },
+      "id": "node/11462331163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11519249221",
+        "amenity": "police",
+        "name": "Wawang Pulo Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9276865,
+          14.7335832
+        ]
+      },
+      "id": "node/11519249221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11519656411",
+        "amenity": "police",
+        "name": "Parada Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9891788,
+          14.6958623
+        ]
+      },
+      "id": "node/11519656411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11548292363",
+        "amenity": "police",
+        "fixme": "name",
+        "image": "3169351960019348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0101825,
+          14.575135
+        ]
+      },
+      "id": "node/11548292363"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11568491051",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0515698,
+          14.3674929
+        ]
+      },
+      "id": "node/11568491051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11658175874",
+        "amenity": "police",
+        "name": "SAB Police Community Precinct Outpost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0058387,
+          14.5762126
+        ]
+      },
+      "id": "node/11658175874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11680848090",
+        "addr:street": "Pioneer Street",
+        "amenity": "police",
+        "image": "https://www.mapillary.com/app/?lat=14.572297222222005&lng=121.04761666667002&z=19.9&focus=photo&pKey=968818530347851&dateFrom=2021-01-01&x=0.6585128842650787&y=0.4686791563337612&zoom=2.050359712230216",
+        "name": "Mobile Police Sub-station 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0476361,
+          14.5723226
+        ]
+      },
+      "id": "node/11680848090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11727971667",
+        "addr:housenumber": "412",
+        "addr:street": "NAIA Road",
+        "amenity": "police",
+        "name": "Tourist Assistance Desk",
+        "operator": "Parañaque City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9974494,
+          14.5170822
+        ]
+      },
+      "id": "node/11727971667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11743296258",
+        "addr:street": "Mabini - J. Rizal Street",
+        "alt_name": "Police Sub-station 8",
+        "amenity": "police",
+        "name": "Mabini - J. Rizal Police Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0211081,
+          14.5855163
+        ]
+      },
+      "id": "node/11743296258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11861378908",
+        "amenity": "police",
+        "check_date": "2024-04-28",
+        "name": "J. Bocobo Police Community Precinct 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.981381,
+          14.5796997
+        ]
+      },
+      "id": "node/11861378908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11882889024",
+        "addr:street": "40th Street",
+        "amenity": "police",
+        "name": "Fort Bonifacio Sub-station 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0550782,
+          14.5607541
+        ]
+      },
+      "id": "node/11882889024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11912109088",
+        "amenity": "police",
+        "name": "Pasig City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0815962,
+          14.5699225
+        ]
+      },
+      "id": "node/11912109088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11927188049",
+        "amenity": "police",
+        "name": "Ugong Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0785051,
+          14.5791143
+        ]
+      },
+      "id": "node/11927188049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11927956109",
+        "addr:street": "Bernal Street",
+        "amenity": "police",
+        "fixme": "name",
+        "mapillary": "692254611923680"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0846777,
+          14.586183
+        ]
+      },
+      "id": "node/11927956109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11933426774",
+        "amenity": "police",
+        "name": "Police Substation 8 - Airport",
+        "operator": "Pasay City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0035514,
+          14.5101077
+        ]
+      },
+      "id": "node/11933426774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11941514680",
+        "addr:street": "A. Sandoval Avenue",
+        "amenity": "police",
+        "fixme": "name",
+        "mapillary": "790649209710206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1003184,
+          14.5509557
+        ]
+      },
+      "id": "node/11941514680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11950533033",
+        "amenity": "police",
+        "name": "Police Substation 2 - Western Bicutan",
+        "operator": "Taguig City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0430858,
+          14.5026883
+        ]
+      },
+      "id": "node/11950533033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11954717869",
+        "amenity": "police",
+        "name": "BJMP BATAAN DISTRICT JAIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.4943072,
+          14.8036943
+        ]
+      },
+      "id": "node/11954717869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11957600291",
+        "addr:street": "Kaayusan Street",
+        "amenity": "police",
+        "mapillary": "1678733879599426",
+        "name": "Manggahan, Police Sub-station № 8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1000801,
+          14.5992517
+        ]
+      },
+      "id": "node/11957600291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12013020174",
+        "amenity": "police",
+        "name": "Police Substation 9",
+        "operator": "Taguig City Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0750893,
+          14.5218326
+        ]
+      },
+      "id": "node/12013020174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12054109131",
+        "addr:street": "North Bay Boulevard",
+        "alt_name": "Navotas Police Sub-station № 3",
+        "amenity": "police",
+        "name": "North Bay Boulevard Police Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9511396,
+          14.6483716
+        ]
+      },
+      "id": "node/12054109131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12067204615",
+        "amenity": "police",
+        "name": "Balingasa Police Community Precinct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9994268,
+          14.6547654
+        ]
+      },
+      "id": "node/12067204615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12075001329",
+        "addr2:street": "Araneta Avenue",
+        "addr:street": "Governor Wenceslao Pascual Avenue",
+        "alt_name": "Malabon Police Sub-station 1",
+        "amenity": "police",
+        "name": "Potrero Police Sub-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9806547,
+          14.6659572
+        ]
+      },
+      "id": "node/12075001329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12193944181",
+        "amenity": "police",
+        "name": "Malabon City Police Station Headquarters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9607007,
+          14.6715457
+        ]
+      },
+      "id": "node/12193944181"
+    }
+  ]
+}

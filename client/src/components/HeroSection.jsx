@@ -7,24 +7,16 @@ import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { MAP_TILE_URL, MAP_ATTRIBUTION } from "@/lib/maps";
+import geojsonData from "@/lib/export";
+import { useState, useEffect } from "react";
 
-const policeStations = [
-  { position: [14.5176, 121.0509], name: "Taguig Police Station 1" },
-  { position: [14.5246, 121.0437], name: "Taguig Police Station 2" },
-  { position: [14.5336, 121.0537], name: "Taguig Police Station 3" },
-  { position: [14.5200, 121.0450], name: "Taguig Police Station 4" },
-  { position: [14.5300, 121.0480], name: "Taguig Police Station 5" },
-  { position: [14.5250, 121.0550], name: "Taguig Police Station 6" },
-  { position: [14.5150, 121.0600], name: "Taguig Police Station 7" },
-  { position: [14.5100, 121.0500], name: "Taguig Police Station 8" },
-  { position: [14.5350, 121.0400], name: "Taguig Police Station 9" },
-  { position: [14.5400, 121.0350], name: "Taguig Police Station 10" },
-  { position: [14.5450, 121.0300], name: "Taguig Police Station 11" },
-  { position: [14.5500, 121.0250], name: "Taguig Police Station 12" },
-  { position: [14.5550, 121.0200], name: "Taguig Police Station 13" },
-  { position: [14.5600, 121.0150], name: "Taguig Police Station 14" },
-  { position: [14.5650, 121.0100], name: "Taguig Police Station 15" },
-];
+// Parse the GeoJSON data to extract police stations
+const policeStations = geojsonData.features
+  .filter(feature => feature.properties.amenity === "police")
+  .map(feature => ({
+    position: feature.geometry.coordinates.reverse(), // Reverse to [lat, lng]
+    name: feature.properties.name,
+  }));
 
 // Create a custom icon using logo3
 const customIcon = new L.Icon({
@@ -34,8 +26,33 @@ const customIcon = new L.Icon({
   popupAnchor: [0, -24], // Adjust the popup anchor as needed
 });
 
+// Create a custom icon for the user's location
+const userLocationIcon = new L.Icon({
+  iconUrl: "https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=256", // Replace with the URL of your location icon
+  iconSize: [24, 24], // Adjust the size as needed
+  iconAnchor: [12, 24], // Adjust the anchor as needed
+  popupAnchor: [0, -24], // Adjust the popup anchor as needed
+});
+
 export default function HeroSection() {
   const { theme } = useTheme();
+  const [userLocation, setUserLocation] = useState(null);
+
+  useEffect(() => {
+    if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(
+        position => {
+          const { latitude, longitude } = position.coords;
+          console.log("User's coordinates:", { latitude, longitude });
+          setUserLocation([latitude, longitude]);
+        },
+        error => {
+          console.error("Error getting user location:", error);
+        }
+      );
+    }
+  }, []);
+
   return (
     <>
       {/* Hero */}
@@ -93,7 +110,7 @@ export default function HeroSection() {
             transition={{ delay: 2.5, duration: 0.5 }}
           >
             <MapContainer
-              center={[14.5176, 121.0509]}
+              center={userLocation || [14.5176, 121.0509]}
               zoom={13}
               className="h-96 rounded-xl"
             >
@@ -101,6 +118,11 @@ export default function HeroSection() {
                 url={MAP_TILE_URL}
                 attribution={MAP_ATTRIBUTION}
               />
+              {userLocation && (
+                <Marker position={userLocation} icon={userLocationIcon}>
+                  <Popup>Your Location</Popup>
+                </Marker>
+              )}
               {policeStations.map((station, index) => (
                 <Marker key={index} position={station.position} icon={customIcon}>
                   <Popup>{station.name}</Popup>
