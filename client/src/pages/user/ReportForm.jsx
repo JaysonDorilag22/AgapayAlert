@@ -34,7 +34,7 @@ export default function ReportForm() {
       <img
               src={theme === "dark" ? logo4 : logo3}
               alt="Logo"
-              className="w-14 h-14 text-center mx-auto mb-3"
+              className="w-20 h-20 text-center mx-auto mb-3"
             />
         <CardTitle className="text-3xl font-bold text-center">AgapayAlert Report Form</CardTitle>
       </CardHeader>

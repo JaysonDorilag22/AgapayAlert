@@ -28,7 +28,7 @@ export default function SignUp() {
   return (
     <Card className="w-full max-w-6xl mx-auto my-10 p-4">
       <CardHeader className="text-center">
-        <img src={theme === "dark" ? logo4 : logo3} alt="Logo" className="w-10 h-10 text-center mx-auto mb-3"/>
+        <img src={theme === "dark" ? logo4 : logo3} alt="Logo" className="w-20 h-20 text-center mx-auto mb-3"/>
         <CardTitle className="text-4xl font-bold">Sign Up for Agapay Alert</CardTitle>
         <CardDescription>Create your account to get started with our emergency alert system</CardDescription>
       </CardHeader>

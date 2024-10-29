@@ -9,13 +9,23 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Link } from "react-router-dom";
+import logo3 from "../../assets/logo3.png";
+import logo4 from "../../assets/logo4.png";
+import { useTheme } from "@/components/theme-provider";
 
 export default function Login() {
+
+  const {theme} = useTheme();
+
   return (
     <div className="flex items-center justify-center  py-28 ">
       <Card className="mx-auto max-w-sm">
         <CardHeader>
-          <CardTitle className="text-2xl">Login</CardTitle>
+        <img 
+        src={theme === "dark" ? logo4 : logo3}
+        alt="Logo"
+        className="w-10 h-10 text-center mx-auto mb-3"/>
+          <CardTitle className="text-4xl text-center font-bold">Login</CardTitle>
           <CardDescription>
             Enter your email below to login to your account
           </CardDescription>
