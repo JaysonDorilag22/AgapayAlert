@@ -1,66 +1,45 @@
-export const stepsData = [
-    { date: "2024-01-01", steps: 2000 },
-    { date: "2024-01-02", steps: 2100 },
-    { date: "2024-01-03", steps: 2200 },
-    { date: "2024-01-04", steps: 1300 },
-    { date: "2024-01-05", steps: 1400 },
-    { date: "2024-01-06", steps: 2500 },
-    { date: "2024-01-07", steps: 1600 },
-  ];
-  
-  export const restingData = [
-    { date: "2024-01-01", resting: 62 },
-    { date: "2024-01-02", resting: 72 },
-    { date: "2024-01-03", resting: 35 },
-    { date: "2024-01-04", resting: 62 },
-    { date: "2024-01-05", resting: 52 },
-    { date: "2024-01-06", resting: 62 },
-    { date: "2024-01-07", resting: 70 },
-  ];
-  
-  export const progressData = [
-    { date: "2024", steps: 12435 },
-    { date: "2023", steps: 10103 },
-  ];
-  
-  export const walkingDistanceData = [
-    { date: "2024-01-01", steps: 2000 },
-    { date: "2024-01-02", steps: 2100 },
-    { date: "2024-01-03", steps: 2200 },
-    { date: "2024-01-04", steps: 1300 },
-    { date: "2024-01-05", steps: 1400 },
-    { date: "2024-01-06", steps: 2500 },
-    { date: "2024-01-07", steps: 1600 },
-  ];
-  
-  export const activityData = [
-    { activity: "stand", value: (8 / 12) * 100, label: "8/12 hr", fill: "var(--color-stand)" },
-    { activity: "exercise", value: (46 / 60) * 100, label: "46/60 min", fill: "var(--color-exercise)" },
-    { activity: "move", value: (245 / 360) * 100, label: "245/360 kcal", fill: "var(--color-move)" },
-  ];
-  
-  export const radialBarData = [
-    { activity: "stand", value: (8 / 12) * 100, fill: "var(--color-stand)" },
-    { activity: "exercise", value: (46 / 60) * 100, fill: "var(--color-exercise)" },
-    { activity: "move", value: (245 / 360) * 100, fill: "var(--color-move)" },
-  ];
-  
-  export const activeEnergyData = [
-    { date: "2024-01-01", calories: 354 },
-    { date: "2024-01-02", calories: 514 },
-    { date: "2024-01-03", calories: 345 },
-    { date: "2024-01-04", calories: 734 },
-    { date: "2024-01-05", calories: 645 },
-    { date: "2024-01-06", calories: 456 },
-    { date: "2024-01-07", calories: 345 },
-  ];
-  
-  export const timeInBedData = [
-    { date: "2024-01-01", time: 8.5 },
-    { date: "2024-01-02", time: 7.2 },
-    { date: "2024-01-03", time: 8.1 },
-    { date: "2024-01-04", time: 6.2 },
-    { date: "2024-01-05", time: 5.2 },
-    { date: "2024-01-06", time: 8.1 },
-    { date: "2024-01-07", time: 7.0 },
-  ];
+export const agapayAlertData = {
+  alertData: [
+    { date: "2024-01-01", alerts: 5 },
+    { date: "2024-01-02", alerts: 7 },
+    { date: "2024-01-03", alerts: 4 },
+    { date: "2024-01-04", alerts: 6 },
+    { date: "2024-01-05", alerts: 8 },
+    { date: "2024-01-06", alerts: 3 },
+    { date: "2024-01-07", alerts: 9 },
+  ],
+  cityReportData: [
+    { city: "Taguig", reports: 12 },
+    { city: "Makati", reports: 8 },
+    { city: "Pasig", reports: 15 },
+    { city: "Mandaluyong", reports: 10 },
+    { city: "Pateros", reports: 5 },
+  ],
+  userActivityData: [
+    { user: "John Doe", activity: "Reported Missing Person", timestamp: "2024-01-01 10:00 AM" },
+    { user: "Jane Smith", activity: "Submitted Feedback", timestamp: "2024-01-02 03:45 PM" },
+    { user: "Officer Ramos", activity: "Updated Alert Status", timestamp: "2024-01-03 08:15 AM" },
+    { user: "Admin", activity: "Added New City", timestamp: "2024-01-04 11:30 AM" },
+    { user: "User123", activity: "Marked Person Found", timestamp: "2024-01-05 07:20 PM" },
+  ],
+  alprData: [
+    { plate: "ABC1234", location: "Taguig", timestamp: "2024-01-01 08:00 AM" },
+    { plate: "XYZ5678", location: "Makati", timestamp: "2024-01-02 01:20 PM" },
+    { plate: "LMN9876", location: "Pasig", timestamp: "2024-01-03 04:50 PM" },
+    { plate: "OPQ5432", location: "Mandaluyong", timestamp: "2024-01-04 10:10 AM" },
+    { plate: "JKL2468", location: "Pateros", timestamp: "2024-01-05 06:45 PM" },
+  ],
+  feedbackData: [
+    { user: "John Doe", feedback: "The app is very helpful!", rating: 5, date: "2024-01-01" },
+    { user: "Jane Smith", feedback: "Alerts need to be faster.", rating: 3, date: "2024-01-02" },
+    { user: "Officer Ramos", feedback: "Integration with ALPR works great.", rating: 4, date: "2024-01-03" },
+    { user: "User123", feedback: "Excellent design and usability.", rating: 5, date: "2024-01-04" },
+    { user: "Admin", feedback: "Could use more analytics features.", rating: 4, date: "2024-01-05" },
+  ],
+  incidentStatistics: [
+    { type: "Missing Person", count: 25 },
+    { type: "Found Person", count: 18 },
+    { type: "Emergency Alert", count: 10 },
+    { type: "Vehicle Alert", count: 8 },
+  ],
+};

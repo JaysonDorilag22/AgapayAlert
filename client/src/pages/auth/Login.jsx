@@ -14,10 +14,12 @@ import logo4 from "../../assets/logo4.png";
 import { useTheme } from "@/components/theme-provider";
 
 export default function Login() {
-
+  const BASE_URL = import.meta.env.VITE_LOCAL_HOST
   const {theme} = useTheme();
 
+  console.log(BASE_URL)
   return (
+
     <div className="flex items-center justify-center  py-28 ">
       <Card className="mx-auto max-w-sm">
         <CardHeader>

@@ -8,8 +8,9 @@ import HowItWorksSection from "./components/HowItWorksSection";
 import SignUp from "./pages/auth/SignUp";
 import AboutPage from "./pages/AboutPage";
 import ReportForm from "./pages/user/ReportForm";
-import AdminLayout from "./AdminLayout";
-import MainLayout from "./MainLayout";
+import AlertPage from "./pages/admin/AlertPage";
+import AdminLayout from "./layouts/AdminLayout";
+import MainLayout from "./layouts/MainLayout";
 
 function App() {
   return (
@@ -26,7 +27,8 @@ function App() {
             <Route path="/report" element={<ReportForm />} />
           </Route>
           <Route element={<AdminLayout />}>
-            <Route path="/admin-dashboard" element={<AdminDashboard />} />
+            <Route path="/dashboard" element={<AdminDashboard />} />
+            <Route path="/alerts-management" element={<AlertPage />} />
           </Route>
         </Routes>
       </Router>
