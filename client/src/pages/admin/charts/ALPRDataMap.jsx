@@ -59,7 +59,7 @@ const incidentData = [
   { type: "missing", location: [15.1401, 120.5928], timestamp: "2024-11-12 09:00 AM" }, // Angeles City
   { type: "abducted", location: [14.7984, 121.1403], timestamp: "2024-11-13 02:00 PM" }, // Batangas
   { type: "abducted", location: [14.8835, 121.1300], timestamp: "2024-11-14 10:30 AM" }, // Lipa City
-  { type: "hit-and-run", location: [15.0765, 120.5549], timestamp: "2024-11-15 03:00 PM" }, // San Fernando, Pampanga
+  { type: "hit-and-run", location: [15.0765, 120.5549], timestamp: "2024-11-15 03:00 PM" },
   { type: "hit-and-run", location: [14.6349, 120.9675], timestamp: "2024-11-16 11:30 AM" }, // Caloocan City
   { type: "missing", location: [14.3830, 121.0019], timestamp: "2024-11-17 08:15 AM" }, // Malolos
   { type: "abducted", location: [15.0249, 120.7360], timestamp: "2024-11-18 01:45 PM" }, // Subic
