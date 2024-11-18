@@ -11,6 +11,7 @@ import ReportForm from "./pages/user/ReportForm";
 import AlertPage from "./pages/admin/AlertPage";
 import AdminLayout from "./layouts/AdminLayout";
 import MainLayout from "./layouts/MainLayout";
+import UserHome from "./pages/user/UserHome";
 
 function App() {
   return (
@@ -26,6 +27,8 @@ function App() {
             <Route path="/about" element={<AboutPage />} />
             <Route path="/report" element={<ReportForm />} />
           </Route>
+          <Route path="/user-home" element={<UserHome />} />
+
           <Route element={<AdminLayout />}>
             <Route path="/dashboard" element={<AdminDashboard />} />
             <Route path="/alerts-management" element={<AlertPage />} />

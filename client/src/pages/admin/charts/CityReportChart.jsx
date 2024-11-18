@@ -24,7 +24,7 @@ export default function CityReportChart() {
           config={{
             reports: {
               label: "Reports",
-              color: "hsl(var(--chart-2))",
+              color: "hsl(var(--chart-1))",
             },
           }}
         >
