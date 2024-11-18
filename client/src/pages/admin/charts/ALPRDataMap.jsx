@@ -16,6 +16,36 @@ const incidentData = [
   { type: "missing", location: [14.5995, 120.9842], timestamp: "2024-01-12 03:00 PM" }, // Manila
   { type: "missing", location: [14.5794, 121.0359], timestamp: "2024-01-13 04:00 PM" }, // Mandaluyong
   { type: "missing", location: [14.5415, 121.0684], timestamp: "2024-01-14 05:00 PM" }, // Pateros
+  { type: "missing", location: [14.5176, 121.0509], timestamp: "2024-01-01 08:00 AM" }, // Taguig
+  { type: "missing", location: [14.6760, 121.0437], timestamp: "2024-01-06 09:00 AM" }, // Quezon City
+  { type: "missing", location: [14.5995, 120.9842], timestamp: "2024-01-07 10:00 AM" }, // Manila
+  { type: "missing", location: [14.6091, 121.0223], timestamp: "2024-01-08 11:00 AM" }, // Pasig
+  { type: "missing", location: [14.6760, 121.0437], timestamp: "2024-01-09 12:00 PM" }, // Quezon City
+  { type: "missing", location: [14.5547, 121.0244], timestamp: "2024-01-10 01:00 PM" }, // Makati
+  { type: "missing", location: [14.5764, 121.0851], timestamp: "2024-01-11 02:00 PM" }, // Pasig
+  { type: "missing", location: [14.5995, 120.9842], timestamp: "2024-01-12 03:00 PM" }, // Manila
+  { type: "missing", location: [14.5794, 121.0359], timestamp: "2024-01-13 04:00 PM" }, // Mandaluyong
+  { type: "missing", location: [14.5415, 121.0684], timestamp: "2024-01-14 05:00 PM" }, // Pateros
+  { type: "missing", location: [14.5176, 121.0509], timestamp: "2024-01-01 08:00 AM" }, // Taguig
+  { type: "missing", location: [14.6760, 121.0437], timestamp: "2024-01-06 09:00 AM" }, // Quezon City
+  { type: "missing", location: [14.5995, 120.9842], timestamp: "2024-01-07 10:00 AM" }, // Manila
+  { type: "missing", location: [14.6091, 121.0223], timestamp: "2024-01-08 11:00 AM" }, // Pasig
+  { type: "missing", location: [14.6760, 121.0437], timestamp: "2024-01-09 12:00 PM" }, // Quezon City
+  { type: "missing", location: [14.5547, 121.0244], timestamp: "2024-01-10 01:00 PM" }, // Makati
+  { type: "missing", location: [14.5764, 121.0851], timestamp: "2024-01-11 02:00 PM" }, // Pasig
+  { type: "missing", location: [14.5995, 120.9842], timestamp: "2024-01-12 03:00 PM" }, // Manila
+  { type: "missing", location: [14.5794, 121.0359], timestamp: "2024-01-13 04:00 PM" }, // Mandaluyong
+  { type: "missing", location: [14.5415, 121.0684], timestamp: "2024-01-14 05:00 PM" }, // Pateros
+  { type: "missing", location: [14.5176, 121.0509], timestamp: "2024-01-01 08:00 AM" }, // Taguig
+  { type: "missing", location: [14.6760, 121.0437], timestamp: "2024-01-06 09:00 AM" }, // Quezon City
+  { type: "missing", location: [14.5995, 120.9842], timestamp: "2024-01-07 10:00 AM" }, // Manila
+  { type: "missing", location: [14.6091, 121.0223], timestamp: "2024-01-08 11:00 AM" }, // Pasig
+  { type: "missing", location: [14.6760, 121.0437], timestamp: "2024-01-09 12:00 PM" }, // Quezon City
+  { type: "missing", location: [14.5547, 121.0244], timestamp: "2024-01-10 01:00 PM" }, // Makati
+  { type: "missing", location: [14.5764, 121.0851], timestamp: "2024-01-11 02:00 PM" }, // Pasig
+  { type: "missing", location: [14.5995, 120.9842], timestamp: "2024-01-12 03:00 PM" }, // Manila
+  { type: "missing", location: [14.5794, 121.0359], timestamp: "2024-01-13 04:00 PM" }, // Mandaluyong
+  { type: "missing", location: [14.5415, 121.0684], timestamp: "2024-01-14 05:00 PM" }, // Pateros
   { type: "abducted", location: [14.5547, 121.0244], timestamp: "2024-01-02 01:20 PM" }, // Makati
   { type: "abducted", location: [14.6091, 121.0223], timestamp: "2024-01-08 02:30 PM" }, // Pasig
   { type: "abducted", location: [14.6760, 121.0437], timestamp: "2024-01-09 03:40 PM" }, // Quezon City
@@ -133,8 +163,8 @@ function ALPRDataMap() {
         <CardTitle>Incident Heatmap</CardTitle>
         <CardDescription>Geographic location of incidents</CardDescription>
       </CardHeader>
-      <CardContent>
-        <div style={{ height: "200px", width: "100%" }}>
+      <CardContent className="w-full h-[300px]">
+        <div style={{ height: "285px", width: "100%" }}>
           <MapContainer
             center={[14.5995, 121.0366]} // Default center (Metro Manila)
             zoom={10}

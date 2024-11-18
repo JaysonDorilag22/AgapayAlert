@@ -41,26 +41,16 @@ export default function AlertTrendChart() {
           Number of alerts issued daily over time
         </CardDescription>
       </CardHeader>
-      <CardContent>
-        <ChartContainer
-          config={{
-            alerts: {
-              label: "Alerts",
-              color: "hsl(var(--chart-1))",
-            },
-          }}
-          // className="h-[300px]"
-        >
-          {/* <ResponsiveContainer width="100%" height="100%"> */}
+      <CardContent className="w-full h-[300px]">
+          <ResponsiveContainer width="100%" height="100%">
             <LineChart data={alertData}>
               <CartesianGrid strokeDasharray="3 3" />
               <XAxis dataKey="date" />
               <YAxis />
               <Tooltip />
-              <Line type="monotone" dataKey="alerts" stroke="#8884d8" />
+              <Line type="monotone" dataKey="alerts"/>
             </LineChart>
-          {/* </ResponsiveContainer> */}
-        </ChartContainer>
+          </ResponsiveContainer>
       </CardContent>
     </Card>
   );

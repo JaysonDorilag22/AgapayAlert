@@ -31,10 +31,13 @@ export default function CityReportChart() {
           {/* <ResponsiveContainer width="100%" height="100%"> */}
             <BarChart data={cityReportData}>
               <CartesianGrid />
-              <XAxis dataKey="city" />
+              <XAxis dataKey="city" tickLine={false}
+              tickMargin={10}
+              axisLine={false}
+              tickFormatter={(value) => value.slice(0, 3)}/>
               <YAxis />
-              <ChartTooltip content={<ChartTooltipContent />} />
-              <Bar dataKey="reports" fill="var(--color-reports)" />
+              <ChartTooltip content={<ChartTooltipContent indicator="dashed"  />} />
+              <Bar dataKey="reports" fill="var(--color-reports)" radius={4} />
             </BarChart>
           {/* </ResponsiveContainer> */}
         </ChartContainer>
