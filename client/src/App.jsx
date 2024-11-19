@@ -12,6 +12,7 @@ import AlertPage from "./pages/admin/AlertPage";
 import AdminLayout from "./layouts/AdminLayout";
 import MainLayout from "./layouts/MainLayout";
 import UserHome from "./pages/user/UserHome";
+import EmailVerfication from "./pages/auth/EmailVerfication";
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
             <Route path="/report" element={<ReportForm />} />
           </Route>
           <Route path="/user-home" element={<UserHome />} />
+          <Route path="/verification" element={<EmailVerfication />} />
 
           <Route element={<AdminLayout />}>
             <Route path="/dashboard" element={<AdminDashboard />} />

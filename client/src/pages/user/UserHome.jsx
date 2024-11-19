@@ -1,6 +1,7 @@
 import { useState } from "react";
+import { useSelector } from "react-redux";
 import { Button } from "@/components/ui/button";
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/utils";
 import {
   Card,
   CardContent,
@@ -11,8 +12,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Label } from "@/components/ui/label";
-import { Calendar as CalendarIcon } from "lucide-react"
-
+import { Calendar as CalendarIcon } from "lucide-react";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -33,19 +33,19 @@ import {
   Bell,
   Upload,
 } from "lucide-react";
-import Placeholder from "./placeholder.svg"
+import Placeholder from "./placeholder.svg";
 import { ModeToggle } from "@/components/mode-toggle";
-import { Calendar } from "@/components/ui/calendar"
+import { Calendar } from "@/components/ui/calendar";
 import {
   Popover,
   PopoverContent,
   PopoverTrigger,
-} from "@/components/ui/popover"
+} from "@/components/ui/popover";
 
-export default function UserHome({
-  userName = "User",
-  userAvatar = "/placeholder.svg",
-}) {
+export default function UserHome() {
+  const { userInfo } = useSelector((state) => state.auth);
+  const userName = userInfo?.firstname || "User";
+  const userAvatar = userInfo?.avatar?.url || "/placeholder.svg";
 
   const [searchQuery, setSearchQuery] = useState("");
   const [newReport, setNewReport] = useState({

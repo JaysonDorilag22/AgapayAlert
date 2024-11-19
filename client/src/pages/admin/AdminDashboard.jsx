@@ -5,6 +5,7 @@ import ALPRDataMap from "./charts/ALPRDataMap";
 import CityReportChart from "./charts/CityReportChart";
 import FeedbackDataChart from "./charts/FeedbackDataChart";
 import UserActivityTable from "./charts/UserActivityTable";
+import { LongChart } from "./charts/LongChart";
 
 function AdminDashboard() {
   return (
@@ -58,6 +59,8 @@ function AdminDashboard() {
         {/* <div className="aspect-video rounded-xl bg-muted/50"> */}
           <CityReportChart />
         {/* </div> */}
+
+        {/* <LongChart/> */}
       </div>
       <div className="min-h-[100vh] flex-1 rounded-xl bg-muted/50 md:min-h-min">
         {/* <FeedbackDataChart/> */}

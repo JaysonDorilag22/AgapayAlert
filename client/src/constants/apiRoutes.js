@@ -93,6 +93,6 @@ const PATHS = {
   },
 };
 
-const getFullUrl = (base, endpoint) => `${BASE_URL}${base}${endpoint}`;
+export const getFullUrl = (path) => `http://localhost:5000${path}`;
 
-export { PATHS, METHODS, getFullUrl };
+export { PATHS, METHODS };
